@@ -1,0 +1,58 @@
+name: Translation Announcement
+
+on:
+  workflow_dispatch:
+  repository_dispatch:
+    types: [run-deployment]
+permissions:
+  contents: write
+jobs:
+  fetch-and-archive:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Configure SSH Access
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Prepare Tool Environment
+        run: |
+          git clone --depth 1 git@github.com:beichen23333/BlueArchive-Translation.git tool
+          cp -r tool/* . && rm -rf tool
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 openai tqdm boto3
+
+      - name: Run translation_announcement
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+        run: |
+          python -m tools.translation_announcement
+
+      - name: Check for changes
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add prod
+          if git diff --cached --quiet; then
+            echo "No changes detected."
+          else
+            echo "time=$(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+            git push
+          fi
+   
