@@ -62,13 +62,14 @@ jobs:
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
         run: |
           git clone --depth 1 git@github.com:beichen23333/BlueArchive-Translation.git tool
-          cp -r tool/* . && rm -rf tool
           python -m pip install requests beautifulsoup4 openai tqdm boto3
+          cd tool
           python -m tools.translation_announcement
 
       - name: Save Changes
         if: env.update_detected == 'true'
         run: |
+          cd
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add .
