@@ -1,0 +1,274 @@
+{
+  "Banners": [
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 792,
+      "BannerType": 1,
+      "EndDate": "2026-01-07T10:59:59",
+      "FileName": [
+        "Lobby_Banner_20251224_01_290946381.png"
+      ],
+      "LinkedLobbyBannerId": 911,
+      "StartDate": "2025-12-24T11:08:27",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/792/1040/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 793,
+      "BannerType": 1,
+      "EndDate": "2026-01-07T10:59:59",
+      "FileName": [
+        "Lobby_Banner_20251224_02_41190333.png"
+      ],
+      "LinkedLobbyBannerId": 912,
+      "StartDate": "2025-12-24T11:09:33",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/793/1047/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 799,
+      "BannerType": 0,
+      "EndDate": "2026-01-14T10:59:59",
+      "FileName": [
+        "Event_Banner_853_Jp_78845406.png"
+      ],
+      "LinkedLobbyBannerId": 853,
+      "StartDate": "2025-12-24T12:37:21",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/799/1048/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 800,
+      "BannerType": 1,
+      "EndDate": "2026-01-07T10:59:59",
+      "FileName": [
+        "Event_Banner_51000_Jp_648633239.png"
+      ],
+      "LinkedLobbyBannerId": 7000,
+      "StartDate": "2025-12-31T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/800/1049/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 801,
+      "BannerType": 4,
+      "EndDate": "2026-01-07T03:59:59",
+      "FileName": [
+        "Raid_Banner_18_Jp_85294820.png"
+      ],
+      "LinkedLobbyBannerId": 0,
+      "StartDate": "2025-12-31T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/801/1050/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 802,
+      "BannerType": 1,
+      "EndDate": "2026-01-07T10:59:59",
+      "FileName": [
+        "Lobby_Banner_Archive_484129847.png"
+      ],
+      "LinkedLobbyBannerId": 3100,
+      "StartDate": "2025-12-24T12:38:32",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/802/1051/"
+    }
+  ],
+  "ContentLock": [],
+  "DownloadLimitTime": 0.0,
+  "EnableSQLite": true,
+  "Events": [
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-01-07T10:59:00",
+      "NoticeId": 970,
+      "StartDate": "2025-12-23T14:00:00",
+      "Title": "精选招募",
+      "Url": "https://prod-notice.bluearchive.cafe/prod/970/3460/index673447125.html"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-01-07T10:59:00",
+      "NoticeId": 972,
+      "StartDate": "2025-12-23T15:00:00",
+      "Title": "活动介绍",
+      "Url": "https://prod-notice.bluearchive.cafe/prod/972/3464/index386535691.html"
+    }
+  ],
+  "GachaPeriodDisplay": [
+    {
+      "GachaPeriodDisplayId": 141,
+      "Text": "2022年2月23日维护后 ～ 2022年3月9日维护前"
+    },
+    {
+      "GachaPeriodDisplayId": 142,
+      "Text": "2022年2月23日维护后 ～ 2022年3月9日维护前"
+    },
+    {
+      "GachaPeriodDisplayId": 140,
+      "Text": "2022年2月23日维护后 ～ 2022年3月9日维护前"
+    },
+    {
+      "GachaPeriodDisplayId": 6000,
+      "Text": " "
+    }
+  ],
+  "GachaProbabilityDisplay": [
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 62,
+      "LinkedLobbyBannerId": 2000,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/62/index.html"
+    },
+    {
+      "GachaDisplayTag": 1,
+      "GachaProbabilityDisplayId": 153,
+      "LinkedLobbyBannerId": 365,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/153/index.html"
+    },
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 304,
+      "LinkedLobbyBannerId": 3000,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/304/index.html"
+    },
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 318,
+      "LinkedLobbyBannerId": 1000,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/318/index.html"
+    },
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 329,
+      "LinkedLobbyBannerId": 1001,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/329/index.html"
+    },
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 343,
+      "LinkedLobbyBannerId": 1002,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/343/index.html"
+    },
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 359,
+      "LinkedLobbyBannerId": 1003,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/359/index.html"
+    },
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 464,
+      "LinkedLobbyBannerId": 6000,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/464/index.html"
+    },
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 515,
+      "LinkedLobbyBannerId": 3100,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/515/index.html"
+    },
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 529,
+      "LinkedLobbyBannerId": 910,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/529/index.html"
+    },
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 530,
+      "LinkedLobbyBannerId": 911,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/530/index.html"
+    },
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 531,
+      "LinkedLobbyBannerId": 912,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/531/index.html"
+    },
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 532,
+      "LinkedLobbyBannerId": 7000,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/532/index.html"
+    }
+  ],
+  "GuidePopup": [
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2025-10-18T21:30:00",
+      "FileName": "Live2510.png",
+      "GotoUrl": "https://app.adjust.com/1t3ih5al?redirect=https%3A%2F%2Fyoutube.com%2Flive%2FDw7y4DNohkA",
+      "GuidePopupId": 37,
+      "GuidePopupType": 1,
+      "Message": "　　　　　蔚蓝档案直播！　　 　　　正在放送！\t",
+      "NotifyUrl": null,
+      "PopupOKText": "前往观看",
+      "PopupType": 1,
+      "StartDate": "2025-10-18T19:51:15",
+      "SurveyId": 0,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/37/68/"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2025-12-20T21:45:00",
+      "FileName": "Live202512.png",
+      "GotoUrl": "https://app.adjust.com/1vrvvaqx?redirect=https%3A%2F%2Fyoutube.com%2Flive%2FTo4kTwOHslU",
+      "GuidePopupId": 38,
+      "GuidePopupType": 1,
+      "Message": "　　　　　蔚蓝档案直播！　　 　　　正在放送！\t",
+      "NotifyUrl": null,
+      "PopupOKText": "前往观看",
+      "PopupType": 1,
+      "StartDate": "2025-12-20T18:50:00",
+      "SurveyId": 0,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/38/69/"
+    }
+  ],
+  "Issues": [
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-01-07T10:59:00",
+      "NoticeId": 973,
+      "StartDate": "2025-12-24T15:00:00",
+      "Title": "[12月24日(星期三)]已知问题）",
+      "Url": "https://prod-notice.bluearchive.cafe/prod/973/3469/index840172295.html"
+    }
+  ],
+  "LatestAndroidClientVersion": "1.64.391335",
+  "LatestClientVersion": "1.64.391335",
+  "LatestIosClientVersion": "1.64.391335",
+  "Maintenance": {
+    "EndDate": "2025-12-24T19:00:00",
+    "StartDate": "2025-12-24T11:00:00",
+    "Text": "定期维护中"
+  },
+  "MarketAppleId": null,
+  "Notices": [
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-01-02T10:59:00",
+      "NoticeId": 971,
+      "StartDate": "2025-12-23T15:00:00",
+      "Title": "维护",
+      "Url": "https://prod-notice.bluearchive.cafe/prod/971/3470/index559343141.html"
+    }
+  ],
+  "NotificationBeforeMaintenance": {
+    "EndDate": "2023-12-27T11:00:00",
+    "PopupType": 1,
+    "StartDate": "2023-12-19T00:00:00+09:00",
+    "Text": "新的主线剧情已更新。请重启一次应用以应用更新。\n限定扭蛋券的使用期限至\n8月31日(周三)10:59为止，请注意不要忘记使用。\n今日11:00起将进行维护，感谢老师的配合。\n为修复问题，将于9月28日01:40进行一次强制登出，感谢老师的配合。"
+  },
+  "RaidPeriodDisplay": null,
+  "ServerStatus": 1,
+  "Survey": {
+    "EndDate": "2023-01-23T23:59:59",
+    "FileName": "Lobby_Banner.png",
+    "NotifyUrl": null,
+    "PopupType": 1,
+    "StartDate": "2023-01-11T14:32:37.234028+09:00",
+    "SurveyId": 199990730,
+    "Text": "蔚蓝档案2周年　特别问卷调查",
+    "Url": "https://prod-notice.bluearchiveyostar.com/prod/SurveyGuidePopup/199990730/"
+  }
+}
