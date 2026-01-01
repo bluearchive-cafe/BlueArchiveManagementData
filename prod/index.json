@@ -200,7 +200,7 @@
       "GotoUrl": "https://app.adjust.com/1t3ih5al?redirect=https%3A%2F%2Fyoutube.com%2Flive%2FDw7y4DNohkA",
       "GuidePopupId": 37,
       "GuidePopupType": 1,
-      "Message": "　　　　　蔚蓝档案直播！　　 　　　正在放送！\t",
+      "Message": "　　　　蔚蓝档案直播！　　　　　正在放送！\t",
       "NotifyUrl": null,
       "PopupOKText": "前往观看",
       "PopupType": 1,
@@ -215,7 +215,7 @@
       "GotoUrl": "https://app.adjust.com/1vrvvaqx?redirect=https%3A%2F%2Fyoutube.com%2Flive%2FTo4kTwOHslU",
       "GuidePopupId": 38,
       "GuidePopupType": 1,
-      "Message": "　　　　　蔚蓝档案直播！　　 　　　正在放送！\t",
+      "Message": "　　　　蔚蓝档案直播！　　　　　正在放送！\t",
       "NotifyUrl": null,
       "PopupOKText": "前往观看",
       "PopupType": 1,
@@ -230,7 +230,7 @@
       "EndDate": "2026-01-07T10:59:00",
       "NoticeId": 973,
       "StartDate": "2025-12-24T15:00:00",
-      "Title": "[12月24日(星期三)]已知问题）",
+      "Title": "[12月24日(周三)]已知问题）",
       "Url": "https://prod-notice.bluearchive.cafe/prod/973/3469/index840172295.html"
     }
   ],
@@ -257,7 +257,7 @@
     "EndDate": "2023-12-27T11:00:00",
     "PopupType": 1,
     "StartDate": "2023-12-19T00:00:00+09:00",
-    "Text": "新的主线剧情已更新。请重启一次应用以应用更新。\n限定扭蛋券的使用期限至\n8月31日(周三)10:59为止，请注意不要忘记使用。\n今日11:00起将进行维护，感谢老师的配合。\n为修复问题，将于9月28日01:40进行一次强制登出，感谢老师的配合。"
+    "Text": "已更新新的主线剧情。请重启一次应用以应用更新。\n限定扭蛋券的使用期限至\n8月31日(周三)10:59为止，请注意不要忘记使用。\n今日11:00起将进行维护，感谢老师的配合。\n为修复问题，将于9月28日01:40进行一次强制登出，感谢老师的配合。"
   },
   "RaidPeriodDisplay": null,
   "ServerStatus": 1,
