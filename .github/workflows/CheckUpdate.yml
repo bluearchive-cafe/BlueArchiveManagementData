@@ -22,6 +22,15 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Configure SSH Access
+        env:
+          SSH_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SSH_KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
+
       - name: Fetch and Compare
         id: check
         run: |
@@ -52,7 +61,7 @@ jobs:
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
         run: |
-          git clone --depth 1 https://github.com/beichen23333/BlueArchive-Translation.git tool
+          git clone --depth 1 git@github.com:beichen23333/BlueArchive-Translation.git tool
           cp -r tool/* . && rm -rf tool
           python -m pip install requests beautifulsoup4 openai tqdm boto3
           python -m tools.translation_announcement
