@@ -34,25 +34,26 @@ jobs:
       - name: Fetch and Compare
         id: check
         run: |
-          curl -sS -f https://prod-noticeindex.bluearchiveyostar.com/prod/index.json | jq -S . > latest_origin.json
+          curl -sS -f https://prod-noticeindex.bluearchiveyostar.com/prod/index.json | jq -S . > /tmp/latest_cloud.json
           
-          if [ -f "original_index.json" ]; then
-            jq -S . original_index.json > temp_old.json
-            if diff -q latest_origin.json temp_old.json > /dev/null; then
+          if [ -f "index.json" ]; then
+            jq -S . index.json > /tmp/temp_local.json
+            if diff -q /tmp/latest_cloud.json /tmp/temp_local.json > /dev/null; then
               echo "update_detected=false" >> $GITHUB_ENV
               exit 0
             fi
           fi
           
           echo "update_detected=true" >> $GITHUB_ENV
-          cp latest_origin.json original_index.json
           mkdir -p prod
-          cp latest_origin.json prod/index.json
+          cp /tmp/latest_cloud.json index.json
+          cp /tmp/latest_cloud.json prod/index.json
           
-          curl -X POST "https://web.archive.org/save/https://prod-noticeindex.bluearchiveyostar.com/prod/index.json" \
-            -H "Content-Type: application/x-www-form-urlencoded" \
-            --data-urlencode "url=https://prod-noticeindex.bluearchiveyostar.com/prod/index.json" \
-            --data-urlencode "capture_outlinks=on" > /dev/null || true
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add index.json
+          git commit -m "Sync: New index detected" || true
+          git push origin HEAD
 
       - name: Run Translation
         if: env.update_detected == 'true'
@@ -63,17 +64,16 @@ jobs:
         run: |
           git clone --depth 1 git@github.com:beichen23333/BlueArchive-Translation.git tool
           python -m pip install requests beautifulsoup4 openai tqdm boto3
-          cd tool
+          cp -r tool/* . && rm -rf tool
           python -m tools.translation_announcement
 
       - name: Save Changes
         if: env.update_detected == 'true'
         run: |
-          rm -rf tool
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .
+          git add prod/
           if ! git diff --cached --quiet; then
-            git commit -m "Update: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+            git commit -m "Update: Translated results $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
             git push origin HEAD
           fi
