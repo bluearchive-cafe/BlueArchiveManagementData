@@ -243,7 +243,24 @@
     "Text": "定期メンテナンス中"
   },
   "MarketAppleId": null,
-  "Notices": [],
+  "Notices": [
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-01-31T10:59:00",
+      "NoticeId": 977,
+      "StartDate": "2025-12-31T15:00:00",
+      "Title": "生徒誕生日カレンダー",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/977/3476/index779898026.html"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-01-14T10:59:00",
+      "NoticeId": 978,
+      "StartDate": "2025-12-31T15:00:00",
+      "Title": "総力戦＆大決戦スケジュール",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/978/3477/index814414177.html"
+    }
+  ],
   "NotificationBeforeMaintenance": {
     "EndDate": "2023-12-27T11:00:00",
     "PopupType": 1,
