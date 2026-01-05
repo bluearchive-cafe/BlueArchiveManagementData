@@ -243,12 +243,29 @@
     "Text": "定期维护中"
   },
   "MarketAppleId": null,
-  "Notices": [],
+  "Notices": [
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-01-31T10:59:00",
+      "NoticeId": 977,
+      "StartDate": "2025-12-31T15:00:00",
+      "Title": "学生生日日历",
+      "Url": "https://prod-notice.bluearchive.cafe/prod/977/3476/index779898026.html"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-01-14T10:59:00",
+      "NoticeId": 978,
+      "StartDate": "2025-12-31T15:00:00",
+      "Title": "总力战＆大决战日程",
+      "Url": "https://prod-notice.bluearchive.cafe/prod/978/3477/index814414177.html"
+    }
+  ],
   "NotificationBeforeMaintenance": {
     "EndDate": "2023-12-27T11:00:00",
     "PopupType": 1,
     "StartDate": "2023-12-19T00:00:00+09:00",
-    "Text": "新的主线故事已更新。请重启一次应用以应用更新。\n限定扭蛋券的使用期限为\n8月31日(星期三)10:59前，请注意不要忘记使用。\n今日11:00起将进行维护，感谢老师的配合。\n为修复问题，将于9月28日01:40进行一次强制登出，感谢老师的配合。"
+    "Text": "新的主线故事已更新。为应用更新，请重启一次应用程序。\n限定扭蛋券的使用期限为\n8月31日(星期三)10:59前，请注意不要忘记使用。\n今日11:00起将进行维护。感谢老师的配合。\n为修复问题，9月28日01:40将进行一次强制登出。感谢老师的配合。"
   },
   "RaidPeriodDisplay": null,
   "ServerStatus": 1,
