@@ -92,6 +92,14 @@
       "StartDate": "2025-12-23T15:00:00",
       "Title": "イベント紹介",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/972/3464/index386535691.html"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-01-19T10:59:00",
+      "NoticeId": 975,
+      "StartDate": "2026-01-06T15:00:00",
+      "Title": "イベント紹介",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/975/3483/index982933810.html"
     }
   ],
   "GachaPeriodDisplay": [
@@ -259,6 +267,14 @@
       "StartDate": "2025-12-31T15:00:00",
       "Title": "総力戦＆大決戦スケジュール",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/978/3477/index814414177.html"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-01-14T10:59:00",
+      "NoticeId": 976,
+      "StartDate": "2026-01-06T15:00:00",
+      "Title": "お知らせ",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/976/3482/index952690517.html"
     }
   ],
   "NotificationBeforeMaintenance": {
