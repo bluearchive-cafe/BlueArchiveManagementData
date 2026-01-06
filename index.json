@@ -50,18 +50,6 @@
     },
     {
       "BannerDisplayType": 0,
-      "BannerId": 801,
-      "BannerType": 4,
-      "EndDate": "2026-01-07T03:59:59",
-      "FileName": [
-        "Raid_Banner_18_Jp_85294820.png"
-      ],
-      "LinkedLobbyBannerId": 0,
-      "StartDate": "2025-12-31T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/801/1050/"
-    },
-    {
-      "BannerDisplayType": 0,
       "BannerId": 802,
       "BannerType": 1,
       "EndDate": "2026-01-07T10:59:59",
