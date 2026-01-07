@@ -1,66 +1,5 @@
 {
-  "Banners": [
-    {
-      "BannerDisplayType": 0,
-      "BannerId": 792,
-      "BannerType": 1,
-      "EndDate": "2026-01-07T10:59:59",
-      "FileName": [
-        "Lobby_Banner_20251224_01_290946381.png"
-      ],
-      "LinkedLobbyBannerId": 911,
-      "StartDate": "2025-12-24T11:08:27",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/792/1040/"
-    },
-    {
-      "BannerDisplayType": 0,
-      "BannerId": 793,
-      "BannerType": 1,
-      "EndDate": "2026-01-07T10:59:59",
-      "FileName": [
-        "Lobby_Banner_20251224_02_41190333.png"
-      ],
-      "LinkedLobbyBannerId": 912,
-      "StartDate": "2025-12-24T11:09:33",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/793/1047/"
-    },
-    {
-      "BannerDisplayType": 0,
-      "BannerId": 799,
-      "BannerType": 0,
-      "EndDate": "2026-01-14T10:59:59",
-      "FileName": [
-        "Event_Banner_853_Jp_78845406.png"
-      ],
-      "LinkedLobbyBannerId": 853,
-      "StartDate": "2025-12-24T12:37:21",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/799/1048/"
-    },
-    {
-      "BannerDisplayType": 0,
-      "BannerId": 800,
-      "BannerType": 1,
-      "EndDate": "2026-01-07T10:59:59",
-      "FileName": [
-        "Event_Banner_51000_Jp_648633239.png"
-      ],
-      "LinkedLobbyBannerId": 7000,
-      "StartDate": "2025-12-31T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/800/1049/"
-    },
-    {
-      "BannerDisplayType": 0,
-      "BannerId": 802,
-      "BannerType": 1,
-      "EndDate": "2026-01-07T10:59:59",
-      "FileName": [
-        "Lobby_Banner_Archive_484129847.png"
-      ],
-      "LinkedLobbyBannerId": 3100,
-      "StartDate": "2025-12-24T12:38:32",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/802/1051/"
-    }
-  ],
+  "Banners": [],
   "ContentLock": [],
   "DownloadLimitTime": 0.0,
   "EnableSQLite": true,
@@ -212,16 +151,7 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/38/69/"
     }
   ],
-  "Issues": [
-    {
-      "DisplayOrder": 0,
-      "EndDate": "2026-01-07T10:59:00",
-      "NoticeId": 973,
-      "StartDate": "2025-12-24T15:00:00",
-      "Title": "[12月24日(水曜日)]既知の不具合）",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/973/3469/index840172295.html"
-    }
-  ],
+  "Issues": [],
   "LatestAndroidClientVersion": "1.64.391335",
   "LatestClientVersion": "1.64.391335",
   "LatestIosClientVersion": "1.64.391335",
@@ -264,7 +194,7 @@
     "Text": "新しいメインストーリーが更新されました。適用するため、アプリを一回再起動してください。\n期間限定のガチャチケットの使用期限は\n8月31日(水)の10:59までとなっております、お忘れになりませんよう、ご注意ください。\n本日11:00からメンテナンスを行います。先生のご協力をお願いいたします。\n不具合修正のため、9月28日01:40に一回強制ログアウトが発生します。先生のご協力をお願いいたします。"
   },
   "RaidPeriodDisplay": null,
-  "ServerStatus": 1,
+  "ServerStatus": 5,
   "Survey": {
     "EndDate": "2023-01-23T23:59:59",
     "FileName": "Lobby_Banner.png",
