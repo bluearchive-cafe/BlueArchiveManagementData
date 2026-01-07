@@ -1,5 +1,102 @@
 {
-  "Banners": [],
+  "Banners": [
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 804,
+      "BannerType": 1,
+      "EndDate": "2026-01-20T10:59:59",
+      "FileName": [
+        "Lobby_Banner_20260107_01_280635441.png"
+      ],
+      "LinkedLobbyBannerId": 914,
+      "StartDate": "2026-01-07T11:05:33",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/804/1053/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 805,
+      "BannerType": 1,
+      "EndDate": "2026-01-20T10:59:59",
+      "FileName": [
+        "Lobby_Banner_20260107_02_111429487.png"
+      ],
+      "LinkedLobbyBannerId": 915,
+      "StartDate": "2026-01-07T11:07:52",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/805/1054/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 806,
+      "BannerType": 1,
+      "EndDate": "2026-01-20T10:59:59",
+      "FileName": [
+        "Lobby_Banner_20230915_02_576212893.png"
+      ],
+      "LinkedLobbyBannerId": 916,
+      "StartDate": "2026-01-07T11:11:20",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/806/1055/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 807,
+      "BannerType": 1,
+      "EndDate": "2026-01-20T10:59:59",
+      "FileName": [
+        "Lobby_Banner_20230915_03_506870263.png"
+      ],
+      "LinkedLobbyBannerId": 917,
+      "StartDate": "2026-01-07T11:13:32",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/807/1056/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 808,
+      "BannerType": 1,
+      "EndDate": "2026-01-20T10:59:59",
+      "FileName": [
+        "Lobby_Banner_Archive_817709297.png"
+      ],
+      "LinkedLobbyBannerId": 3100,
+      "StartDate": "2026-01-07T11:18:15",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/808/1057/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 809,
+      "BannerType": 0,
+      "EndDate": "2026-01-25T10:59:59",
+      "FileName": [
+        "Event_Banner_840_Jp_81592377.png"
+      ],
+      "LinkedLobbyBannerId": 10840,
+      "StartDate": "2026-01-07T11:18:56",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/809/1059/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 810,
+      "BannerType": 26,
+      "EndDate": "2026-01-14T03:59:59",
+      "FileName": [
+        "TimeAttack_Banner_Jp_670822.png"
+      ],
+      "LinkedLobbyBannerId": 0,
+      "StartDate": "2026-01-07T11:25:06",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/810/1060/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 812,
+      "BannerType": 0,
+      "EndDate": "2026-01-14T10:59:59",
+      "FileName": [
+        "Event_Banner_853_Jp_418832086.png"
+      ],
+      "LinkedLobbyBannerId": 853,
+      "StartDate": "2026-01-07T11:31:33",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/812/1062/"
+    }
+  ],
   "ContentLock": [],
   "DownloadLimitTime": 0.0,
   "EnableSQLite": true,
@@ -96,27 +193,39 @@
     },
     {
       "GachaDisplayTag": -1,
-      "GachaProbabilityDisplayId": 529,
-      "LinkedLobbyBannerId": 910,
-      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/529/index.html"
-    },
-    {
-      "GachaDisplayTag": -1,
-      "GachaProbabilityDisplayId": 530,
-      "LinkedLobbyBannerId": 911,
-      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/530/index.html"
-    },
-    {
-      "GachaDisplayTag": -1,
-      "GachaProbabilityDisplayId": 531,
-      "LinkedLobbyBannerId": 912,
-      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/531/index.html"
-    },
-    {
-      "GachaDisplayTag": -1,
       "GachaProbabilityDisplayId": 532,
       "LinkedLobbyBannerId": 7000,
       "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/532/index.html"
+    },
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 533,
+      "LinkedLobbyBannerId": 913,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/533/index.html"
+    },
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 534,
+      "LinkedLobbyBannerId": 914,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/534/index.html"
+    },
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 535,
+      "LinkedLobbyBannerId": 915,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/535/index.html"
+    },
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 536,
+      "LinkedLobbyBannerId": 916,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/536/index.html"
+    },
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 537,
+      "LinkedLobbyBannerId": 917,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/537/index.html"
     }
   ],
   "GuidePopup": [
@@ -183,7 +292,7 @@
       "EndDate": "2026-01-14T10:59:00",
       "NoticeId": 976,
       "StartDate": "2026-01-06T15:00:00",
-      "Title": "公告",
+      "Title": "通知",
       "Url": "https://prod-notice.bluearchive.cafe/prod/976/3482/index952690517.html"
     }
   ],
@@ -191,7 +300,7 @@
     "EndDate": "2023-12-27T11:00:00",
     "PopupType": 1,
     "StartDate": "2023-12-19T00:00:00+09:00",
-    "Text": "新的主线故事已更新。为应用更新，请重启一次应用程序。\n限定扭蛋券的使用期限为\n8月31日（周三）10:59前，请注意不要忘记使用。\n今日11:00起将进行维护，感谢老师的配合。\n为修复故障，9月28日01:40将进行一次强制登出，感谢老师的配合。"
+    "Text": "新的主线故事已更新。为应用更新，请重启一次应用程序。\n限定扭蛋券的使用期限为\n8月31日（周三）10:59前，请注意不要忘记。\n今日11:00起将进行维护。感谢老师的配合。\n为修复故障，9月28日01:40将发生一次强制登出。感谢老师的配合。"
   },
   "RaidPeriodDisplay": null,
   "ServerStatus": 5,
@@ -202,7 +311,7 @@
     "PopupType": 1,
     "StartDate": "2023-01-11T14:32:37.234028+09:00",
     "SurveyId": 199990730,
-    "Text": "碧蓝档案2周年 特别问卷调查",
+    "Text": "碧蓝档案2周年　特别问卷调查",
     "Url": "https://prod-notice.bluearchiveyostar.com/prod/SurveyGuidePopup/199990730/"
   }
 }
