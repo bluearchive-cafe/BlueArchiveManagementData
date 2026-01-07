@@ -1,66 +1,5 @@
 {
-  "Banners": [
-    {
-      "BannerDisplayType": 0,
-      "BannerId": 792,
-      "BannerType": 1,
-      "EndDate": "2026-01-07T10:59:59",
-      "FileName": [
-        "Lobby_Banner_20251224_01_290946381.png"
-      ],
-      "LinkedLobbyBannerId": 911,
-      "StartDate": "2025-12-24T11:08:27",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/792/1040/"
-    },
-    {
-      "BannerDisplayType": 0,
-      "BannerId": 793,
-      "BannerType": 1,
-      "EndDate": "2026-01-07T10:59:59",
-      "FileName": [
-        "Lobby_Banner_20251224_02_41190333.png"
-      ],
-      "LinkedLobbyBannerId": 912,
-      "StartDate": "2025-12-24T11:09:33",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/793/1047/"
-    },
-    {
-      "BannerDisplayType": 0,
-      "BannerId": 799,
-      "BannerType": 0,
-      "EndDate": "2026-01-14T10:59:59",
-      "FileName": [
-        "Event_Banner_853_Jp_78845406.png"
-      ],
-      "LinkedLobbyBannerId": 853,
-      "StartDate": "2025-12-24T12:37:21",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/799/1048/"
-    },
-    {
-      "BannerDisplayType": 0,
-      "BannerId": 800,
-      "BannerType": 1,
-      "EndDate": "2026-01-07T10:59:59",
-      "FileName": [
-        "Event_Banner_51000_Jp_648633239.png"
-      ],
-      "LinkedLobbyBannerId": 7000,
-      "StartDate": "2025-12-31T11:00:00",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/800/1049/"
-    },
-    {
-      "BannerDisplayType": 0,
-      "BannerId": 802,
-      "BannerType": 1,
-      "EndDate": "2026-01-07T10:59:59",
-      "FileName": [
-        "Lobby_Banner_Archive_484129847.png"
-      ],
-      "LinkedLobbyBannerId": 3100,
-      "StartDate": "2025-12-24T12:38:32",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/802/1051/"
-    }
-  ],
+  "Banners": [],
   "ContentLock": [],
   "DownloadLimitTime": 0.0,
   "EnableSQLite": true,
@@ -212,16 +151,7 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/38/69/"
     }
   ],
-  "Issues": [
-    {
-      "DisplayOrder": 0,
-      "EndDate": "2026-01-07T10:59:00",
-      "NoticeId": 973,
-      "StartDate": "2025-12-24T15:00:00",
-      "Title": "[12月24日(星期三)]已知问题）",
-      "Url": "https://prod-notice.bluearchive.cafe/prod/973/3469/index840172295.html"
-    }
-  ],
+  "Issues": [],
   "LatestAndroidClientVersion": "1.64.391335",
   "LatestClientVersion": "1.64.391335",
   "LatestIosClientVersion": "1.64.391335",
@@ -253,7 +183,7 @@
       "EndDate": "2026-01-14T10:59:00",
       "NoticeId": 976,
       "StartDate": "2026-01-06T15:00:00",
-      "Title": "通知",
+      "Title": "公告",
       "Url": "https://prod-notice.bluearchive.cafe/prod/976/3482/index952690517.html"
     }
   ],
@@ -261,10 +191,10 @@
     "EndDate": "2023-12-27T11:00:00",
     "PopupType": 1,
     "StartDate": "2023-12-19T00:00:00+09:00",
-    "Text": "新的主线故事已更新。请重启一次应用以应用更新。\n限定扭蛋券的使用期限为\n8月31日(星期三)10:59前，请注意不要忘记使用。\n今日11:00起将进行维护，感谢老师的配合。\n为修复问题，将于9月28日01:40进行一次强制登出，感谢老师的配合。"
+    "Text": "新的主线故事已更新。为应用更新，请重启一次应用程序。\n限定扭蛋券的使用期限为\n8月31日（周三）10:59前，请注意不要忘记使用。\n今日11:00起将进行维护，感谢老师的配合。\n为修复故障，9月28日01:40将进行一次强制登出，感谢老师的配合。"
   },
   "RaidPeriodDisplay": null,
-  "ServerStatus": 1,
+  "ServerStatus": 5,
   "Survey": {
     "EndDate": "2023-01-23T23:59:59",
     "FileName": "Lobby_Banner.png",
@@ -272,7 +202,7 @@
     "PopupType": 1,
     "StartDate": "2023-01-11T14:32:37.234028+09:00",
     "SurveyId": 199990730,
-    "Text": "蔚蓝档案2周年特别问卷调查",
+    "Text": "碧蓝档案2周年 特别问卷调查",
     "Url": "https://prod-notice.bluearchiveyostar.com/prod/SurveyGuidePopup/199990730/"
   }
 }
