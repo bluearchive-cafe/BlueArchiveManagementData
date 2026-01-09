@@ -61,12 +61,15 @@ jobs:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          CSRF: ${{ secrets.CSRF }}
+          COOKIE: ${{ secrets.COOKIE }}
           PYTHONUNBUFFERED: "1"
         run: |
           git clone --depth 1 git@github.com:beichen23333/BlueArchive-Translation.git tool
           python -m pip install requests beautifulsoup4 openai tqdm boto3
           cp -r tool/* . && rm -rf tool
           python -m translation.translation_announcement
+          python -m bilibili.py
 
       - name: Save Changes
         if: env.update_detected == 'true'
