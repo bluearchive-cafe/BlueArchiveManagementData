@@ -2,7 +2,7 @@ name: Check DM
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/1 * * * *'
   workflow_dispatch:
 
 permissions:
