@@ -74,18 +74,6 @@
     },
     {
       "BannerDisplayType": 0,
-      "BannerId": 810,
-      "BannerType": 26,
-      "EndDate": "2026-01-14T03:59:59",
-      "FileName": [
-        "TimeAttack_Banner_Jp_670822.png"
-      ],
-      "LinkedLobbyBannerId": 0,
-      "StartDate": "2026-01-07T11:25:06",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/810/1060/"
-    },
-    {
-      "BannerDisplayType": 0,
       "BannerId": 812,
       "BannerType": 0,
       "EndDate": "2026-01-14T10:59:59",
@@ -236,7 +224,7 @@
       "GotoUrl": "https://app.adjust.com/1t3ih5al?redirect=https%3A%2F%2Fyoutube.com%2Flive%2FDw7y4DNohkA",
       "GuidePopupId": 37,
       "GuidePopupType": 1,
-      "Message": "　　　　　碧蓝档案直播！　　 　　　正在播出！\t",
+      "Message": "　　　　　碧蓝档案直播！　　 　　　正在播出！",
       "NotifyUrl": null,
       "PopupOKText": "前往观看",
       "PopupType": 1,
@@ -251,7 +239,7 @@
       "GotoUrl": "https://app.adjust.com/1vrvvaqx?redirect=https%3A%2F%2Fyoutube.com%2Flive%2FTo4kTwOHslU",
       "GuidePopupId": 38,
       "GuidePopupType": 1,
-      "Message": "　　　　　碧蓝档案直播！　　 　　　正在播出！\t",
+      "Message": "　　　　　碧蓝档案直播！　　 　　　正在播出！",
       "NotifyUrl": null,
       "PopupOKText": "前往观看",
       "PopupType": 1,
