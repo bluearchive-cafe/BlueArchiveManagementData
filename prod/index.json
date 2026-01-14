@@ -74,15 +74,15 @@
     },
     {
       "BannerDisplayType": 0,
-      "BannerId": 812,
-      "BannerType": 0,
-      "EndDate": "2026-01-14T10:59:59",
+      "BannerId": 811,
+      "BannerType": 27,
+      "EndDate": "2026-01-20T03:59:59",
       "FileName": [
-        "Event_Banner_853_Jp_418832086.png"
+        "EliminateRaid_Banner_7_jp_365735336.png"
       ],
-      "LinkedLobbyBannerId": 853,
-      "StartDate": "2026-01-07T11:31:33",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/812/1062/"
+      "LinkedLobbyBannerId": 0,
+      "StartDate": "2026-01-14T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/811/1061/"
     }
   ],
   "ContentLock": [],
@@ -224,7 +224,7 @@
       "GotoUrl": "https://app.adjust.com/1t3ih5al?redirect=https%3A%2F%2Fyoutube.com%2Flive%2FDw7y4DNohkA",
       "GuidePopupId": 37,
       "GuidePopupType": 1,
-      "Message": "　　　　　碧蓝档案直播！　　 　　　正在播出！",
+      "Message": "　　　　　碧蓝档案直播！　　 　　　正在播出！\t",
       "NotifyUrl": null,
       "PopupOKText": "前往观看",
       "PopupType": 1,
@@ -239,7 +239,7 @@
       "GotoUrl": "https://app.adjust.com/1vrvvaqx?redirect=https%3A%2F%2Fyoutube.com%2Flive%2FTo4kTwOHslU",
       "GuidePopupId": 38,
       "GuidePopupType": 1,
-      "Message": "　　　　　碧蓝档案直播！　　 　　　正在播出！",
+      "Message": "　　　　　碧蓝档案直播！　　 　　　正在播出！\t",
       "NotifyUrl": null,
       "PopupOKText": "前往观看",
       "PopupType": 1,
@@ -266,22 +266,6 @@
       "StartDate": "2025-12-31T15:00:00",
       "Title": "学生生日日历",
       "Url": "https://prod-notice.bluearchive.cafe/prod/977/3476/index779898026.html"
-    },
-    {
-      "DisplayOrder": 0,
-      "EndDate": "2026-01-14T10:59:00",
-      "NoticeId": 978,
-      "StartDate": "2025-12-31T15:00:00",
-      "Title": "总力战＆大决战日程",
-      "Url": "https://prod-notice.bluearchive.cafe/prod/978/3477/index814414177.html"
-    },
-    {
-      "DisplayOrder": 0,
-      "EndDate": "2026-01-14T10:59:00",
-      "NoticeId": 976,
-      "StartDate": "2026-01-06T15:00:00",
-      "Title": "维护",
-      "Url": "https://prod-notice.bluearchive.cafe/prod/976/3487/index988086125.html"
     }
   ],
   "NotificationBeforeMaintenance": {
