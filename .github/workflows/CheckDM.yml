@@ -34,6 +34,9 @@ jobs:
       - name: Run DM
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          BUVID3: ${{ secrets.BUVID3 }}
+          BILI_JCT: ${{ secrets.BILI_JCT }}
+          SESSDATA: ${{ secrets.SESSDATA }}
           PYTHONUNBUFFERED: "1"
         run: |
           git clone --depth 1 git@github.com:beichen23333/BlueArchive-Translation.git tool
