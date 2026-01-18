@@ -61,15 +61,17 @@ jobs:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
-          CSRF: ${{ secrets.CSRF }}
-          COOKIE: ${{ secrets.COOKIE }}
+          BUVID3: ${{ secrets.BUVID3 }}
+          BILI_JCT: ${{ secrets.BILI_JCT }}
+          SESSDATA: ${{ secrets.SESSDATA }}
           PYTHONUNBUFFERED: "1"
         run: |
           git clone --depth 1 git@github.com:beichen23333/BlueArchive-Translation.git tool
           git clone --depth 1 git@github.com:bluearchive-cafe/bluearchive-cafe-prod-notice.git
-          python -m pip install requests beautifulsoup4 openai tqdm boto3
+          python -m pip install requests beautifulsoup4 openai tqdm boto3 xxhash
           cp -r tool/* . && rm -rf tool
           python -m translation.translation_announcement
+          python -m update_notice_kv
           python -m bilibili.bilibili_column
 
       - name: Save Changes
