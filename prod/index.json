@@ -88,19 +88,36 @@
   "ContentLock": [],
   "DownloadLimitTime": 0.0,
   "EnableSQLite": true,
-  "Events": [],
+  "Events": [
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-01-28T10:59:00",
+      "NoticeId": 980,
+      "StartDate": "2026-01-19T15:00:00",
+      "Title": "精选招募",
+      "Url": "https://prod-notice.bluearchive.cafe/prod/980/3489/index975380716.html"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-01-29T10:59:00",
+      "NoticeId": 981,
+      "StartDate": "2026-01-19T15:00:00",
+      "Title": "活动介绍",
+      "Url": "https://prod-notice.bluearchive.cafe/prod/981/3493/index269090269.html"
+    }
+  ],
   "GachaPeriodDisplay": [
     {
       "GachaPeriodDisplayId": 141,
-      "Text": "2022年2月23日维护后 ～ 2022年3月9日维护前"
+      "Text": "2022/02/23 维护后 ～ 2022/03/09 维护前"
     },
     {
       "GachaPeriodDisplayId": 142,
-      "Text": "2022年2月23日维护后 ～ 2022年3月9日维护前"
+      "Text": "2022/02/23 维护后 ～ 2022/03/09 维护前"
     },
     {
       "GachaPeriodDisplayId": 140,
-      "Text": "2022年2月23日维护后 ～ 2022年3月9日维护前"
+      "Text": "2022/02/23 维护后 ～ 2022/03/09 维护前"
     },
     {
       "GachaPeriodDisplayId": 6000,
@@ -207,7 +224,7 @@
       "GotoUrl": "https://app.adjust.com/1t3ih5al?redirect=https%3A%2F%2Fyoutube.com%2Flive%2FDw7y4DNohkA",
       "GuidePopupId": 37,
       "GuidePopupType": 1,
-      "Message": "　　　　　碧蓝档案直播！　　 　　　正在放送中！\t",
+      "Message": "　　　　　蔚蓝档案直播！　　 　　　正在播出！\t",
       "NotifyUrl": null,
       "PopupOKText": "前往观看",
       "PopupType": 1,
@@ -222,7 +239,7 @@
       "GotoUrl": "https://app.adjust.com/1vrvvaqx?redirect=https%3A%2F%2Fyoutube.com%2Flive%2FTo4kTwOHslU",
       "GuidePopupId": 38,
       "GuidePopupType": 1,
-      "Message": "　　　　　碧蓝档案直播！　　 　　　正在放送中！\t",
+      "Message": "　　　　　蔚蓝档案直播！　　 　　　正在播出！\t",
       "NotifyUrl": null,
       "PopupOKText": "前往观看",
       "PopupType": 1,
@@ -237,7 +254,7 @@
       "GotoUrl": "https://app.adjust.com/1wo7xc94?redirect=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmdafTit0lTA",
       "GuidePopupId": 39,
       "GuidePopupType": 1,
-      "Message": "　碧蓝档案祭！特别舞台　一起去看看吧！",
+      "Message": "　蔚蓝档案祭！特别舞台　一起去看看吧！",
       "NotifyUrl": null,
       "PopupOKText": "前往观看",
       "PopupType": 1,
@@ -252,7 +269,7 @@
       "GotoUrl": "https://app.adjust.com/1wo7xc94?redirect=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmdafTit0lTA",
       "GuidePopupId": 40,
       "GuidePopupType": 1,
-      "Message": "碧蓝档案直播！五周年动画SP！　一起去看看吧！",
+      "Message": "蔚蓝档案直播！第五周年SP！　一起去看看吧！",
       "NotifyUrl": null,
       "PopupOKText": "前往观看",
       "PopupType": 1,
@@ -267,7 +284,7 @@
       "GotoUrl": "https://app.adjust.com/1wefhoz0?redirect=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkgCwc2EHDgY",
       "GuidePopupId": 41,
       "GuidePopupType": 1,
-      "Message": "　碧蓝档案祭！特别舞台　一起去看看吧！",
+      "Message": "　蔚蓝档案祭！特别舞台　一起去看看吧！",
       "NotifyUrl": null,
       "PopupOKText": "前往观看",
       "PopupType": 1,
@@ -282,9 +299,9 @@
       "GotoUrl": "https://app.adjust.com/1wefhoz0?redirect=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkgCwc2EHDgY",
       "GuidePopupId": 42,
       "GuidePopupType": 1,
-      "Message": "碧蓝档案直播！五周年动画SP！　一起去看看吧！",
+      "Message": "蔚蓝档案直播！五周年SP！ 快去看吧！",
       "NotifyUrl": null,
-      "PopupOKText": "前往观看",
+      "PopupOKText": "去看",
       "PopupType": 1,
       "StartDate": "2026-01-18T14:50:00",
       "SurveyId": 0,
@@ -309,13 +326,29 @@
       "StartDate": "2025-12-31T15:00:00",
       "Title": "学生生日日历",
       "Url": "https://prod-notice.bluearchive.cafe/prod/977/3476/index779898026.html"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-01-21T10:59:00",
+      "NoticeId": 979,
+      "StartDate": "2026-01-19T15:00:00",
+      "Title": "主线剧情更新通知",
+      "Url": "https://prod-notice.bluearchive.cafe/prod/979/3488/index759717189.html"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-01-28T10:59:00",
+      "NoticeId": 983,
+      "StartDate": "2026-01-19T15:00:00",
+      "Title": "维护",
+      "Url": "https://prod-notice.bluearchive.cafe/prod/983/3495/index646774674.html"
     }
   ],
   "NotificationBeforeMaintenance": {
     "EndDate": "2023-12-27T11:00:00",
     "PopupType": 1,
     "StartDate": "2023-12-19T00:00:00+09:00",
-    "Text": "新的主线故事已更新。请重启一次应用以应用更新。\n限定扭蛋券的使用期限至\n8月31日（周三）10:59为止，请注意不要忘记。\n今日11:00起将进行维护。感谢老师的配合。\n为修复故障，将于9月28日01:40进行一次强制登出。感谢老师的配合。"
+    "Text": "新的主线剧情已更新。请重启一次应用以应用更新。\n限定扭蛋券的使用期限至\n8月31日（周三）10:59为止，请注意不要忘记使用。\n今日11:00起将进行维护。感谢老师的配合。\n为修复故障，将于9月28日01:40进行一次强制登出。感谢老师的配合。"
   },
   "RaidPeriodDisplay": null,
   "ServerStatus": 1,
