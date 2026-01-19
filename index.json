@@ -88,24 +88,7 @@
   "ContentLock": [],
   "DownloadLimitTime": 0.0,
   "EnableSQLite": true,
-  "Events": [
-    {
-      "DisplayOrder": 0,
-      "EndDate": "2026-01-19T10:59:00",
-      "NoticeId": 975,
-      "StartDate": "2026-01-06T15:00:00",
-      "Title": "イベント紹介",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/975/3483/index982933810.html"
-    },
-    {
-      "DisplayOrder": 0,
-      "EndDate": "2026-01-19T10:59:00",
-      "NoticeId": 974,
-      "StartDate": "2026-01-06T14:00:00",
-      "Title": "ピックアップ募集",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/974/3484/index950947349.html"
-    }
-  ],
+  "Events": [],
   "GachaPeriodDisplay": [
     {
       "GachaPeriodDisplayId": 141,
