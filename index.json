@@ -88,7 +88,24 @@
   "ContentLock": [],
   "DownloadLimitTime": 0.0,
   "EnableSQLite": true,
-  "Events": [],
+  "Events": [
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-01-28T10:59:00",
+      "NoticeId": 980,
+      "StartDate": "2026-01-19T15:00:00",
+      "Title": "ピックアップ募集",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/980/3489/index975380716.html"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-01-29T10:59:00",
+      "NoticeId": 981,
+      "StartDate": "2026-01-19T15:00:00",
+      "Title": "イベント紹介",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/981/3493/index269090269.html"
+    }
+  ],
   "GachaPeriodDisplay": [
     {
       "GachaPeriodDisplayId": 141,
@@ -309,6 +326,22 @@
       "StartDate": "2025-12-31T15:00:00",
       "Title": "生徒誕生日カレンダー",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/977/3476/index779898026.html"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-01-21T10:59:00",
+      "NoticeId": 979,
+      "StartDate": "2026-01-19T15:00:00",
+      "Title": "メインストーリー更新のお知らせ",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/979/3488/index759717189.html"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-01-28T10:59:00",
+      "NoticeId": 983,
+      "StartDate": "2026-01-19T15:00:00",
+      "Title": "メンテナンス",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/983/3495/index646774674.html"
     }
   ],
   "NotificationBeforeMaintenance": {
