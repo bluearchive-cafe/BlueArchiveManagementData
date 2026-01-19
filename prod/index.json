@@ -224,7 +224,7 @@
       "GotoUrl": "https://app.adjust.com/1t3ih5al?redirect=https%3A%2F%2Fyoutube.com%2Flive%2FDw7y4DNohkA",
       "GuidePopupId": 37,
       "GuidePopupType": 1,
-      "Message": "　　　　　蔚蓝档案直播！　　 　　　正在播出！\t",
+      "Message": "　　　　　碧蓝档案直播！　　 　　　正在播出！\t",
       "NotifyUrl": null,
       "PopupOKText": "前往观看",
       "PopupType": 1,
@@ -239,7 +239,7 @@
       "GotoUrl": "https://app.adjust.com/1vrvvaqx?redirect=https%3A%2F%2Fyoutube.com%2Flive%2FTo4kTwOHslU",
       "GuidePopupId": 38,
       "GuidePopupType": 1,
-      "Message": "　　　　　蔚蓝档案直播！　　 　　　正在播出！\t",
+      "Message": "　　　　　碧蓝档案直播！　　 　　　正在播出！\t",
       "NotifyUrl": null,
       "PopupOKText": "前往观看",
       "PopupType": 1,
@@ -254,7 +254,7 @@
       "GotoUrl": "https://app.adjust.com/1wo7xc94?redirect=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmdafTit0lTA",
       "GuidePopupId": 39,
       "GuidePopupType": 1,
-      "Message": "　蔚蓝档案祭！特别舞台　一起去看看吧！",
+      "Message": "　碧蓝档案祭！特别舞台　一起去看看吧！",
       "NotifyUrl": null,
       "PopupOKText": "前往观看",
       "PopupType": 1,
@@ -269,7 +269,7 @@
       "GotoUrl": "https://app.adjust.com/1wo7xc94?redirect=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmdafTit0lTA",
       "GuidePopupId": 40,
       "GuidePopupType": 1,
-      "Message": "蔚蓝档案直播！第五周年SP！　一起去看看吧！",
+      "Message": "碧蓝档案直播！第五周年特别篇！　一起去看看吧！",
       "NotifyUrl": null,
       "PopupOKText": "前往观看",
       "PopupType": 1,
@@ -284,7 +284,7 @@
       "GotoUrl": "https://app.adjust.com/1wefhoz0?redirect=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkgCwc2EHDgY",
       "GuidePopupId": 41,
       "GuidePopupType": 1,
-      "Message": "　蔚蓝档案祭！特别舞台　一起去看看吧！",
+      "Message": "　碧蓝档案祭！特别舞台　一起去看看吧！",
       "NotifyUrl": null,
       "PopupOKText": "前往观看",
       "PopupType": 1,
@@ -299,7 +299,7 @@
       "GotoUrl": "https://app.adjust.com/1wefhoz0?redirect=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkgCwc2EHDgY",
       "GuidePopupId": 42,
       "GuidePopupType": 1,
-      "Message": "蔚蓝档案直播！五周年SP！ 快去看吧！",
+      "Message": "蔚蓝档案直播！第五次动画SP！一起去看吧！",
       "NotifyUrl": null,
       "PopupOKText": "去看",
       "PopupType": 1,
@@ -313,8 +313,8 @@
   "LatestClientVersion": "1.64.391335",
   "LatestIosClientVersion": "1.64.391335",
   "Maintenance": {
-    "EndDate": "2026-01-07T17:00:00",
-    "StartDate": "2026-01-07T11:00:00",
+    "EndDate": "2026-01-20T19:00:00",
+    "StartDate": "2026-01-20T11:00:00",
     "Text": "定期维护中"
   },
   "MarketAppleId": null,
@@ -342,13 +342,21 @@
       "StartDate": "2026-01-19T15:00:00",
       "Title": "维护",
       "Url": "https://prod-notice.bluearchive.cafe/prod/983/3495/index646774674.html"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-01-29T10:59:00",
+      "NoticeId": 984,
+      "StartDate": "2026-01-19T15:30:00",
+      "Title": "Yostar Games充值中心通知",
+      "Url": "https://prod-notice.bluearchive.cafe/prod/984/3498/index379550767.html"
     }
   ],
   "NotificationBeforeMaintenance": {
     "EndDate": "2023-12-27T11:00:00",
     "PopupType": 1,
     "StartDate": "2023-12-19T00:00:00+09:00",
-    "Text": "新的主线剧情已更新。请重启一次应用以应用更新。\n限定扭蛋券的使用期限至\n8月31日（周三）10:59为止，请注意不要忘记使用。\n今日11:00起将进行维护。感谢老师的配合。\n为修复故障，将于9月28日01:40进行一次强制登出。感谢老师的配合。"
+    "Text": "新的主线剧情已更新。为应用更新，请重启一次应用。\n限定扭蛋券的使用期限至\n8月31日（周三）10:59为止，请注意不要忘记。\n今日11:00起将进行维护。感谢老师的配合。\n为修复故障，9月28日01:40将发生一次强制登出。感谢老师的配合。"
   },
   "RaidPeriodDisplay": null,
   "ServerStatus": 1,
