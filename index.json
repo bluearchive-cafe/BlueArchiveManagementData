@@ -313,8 +313,8 @@
   "LatestClientVersion": "1.64.391335",
   "LatestIosClientVersion": "1.64.391335",
   "Maintenance": {
-    "EndDate": "2026-01-07T17:00:00",
-    "StartDate": "2026-01-07T11:00:00",
+    "EndDate": "2026-01-20T19:00:00",
+    "StartDate": "2026-01-20T11:00:00",
     "Text": "定期メンテナンス中"
   },
   "MarketAppleId": null,
@@ -342,6 +342,14 @@
       "StartDate": "2026-01-19T15:00:00",
       "Title": "メンテナンス",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/983/3495/index646774674.html"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-01-29T10:59:00",
+      "NoticeId": 984,
+      "StartDate": "2026-01-19T15:30:00",
+      "Title": "Yostar Gamesチャージセンターのお知らせ",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/984/3498/index379550767.html"
     }
   ],
   "NotificationBeforeMaintenance": {
