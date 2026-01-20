@@ -83,6 +83,18 @@
       "LinkedLobbyBannerId": 854,
       "StartDate": "2026-01-20T16:49:16",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/825/1081/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 826,
+      "BannerType": 1,
+      "EndDate": "2026-01-27T10:59:59",
+      "FileName": [
+        "Lobby_Banner_Archive_790326789.png"
+      ],
+      "LinkedLobbyBannerId": 3100,
+      "StartDate": "2026-01-20T19:34:16",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/826/1082/"
     }
   ],
   "ContentLock": [],
@@ -260,7 +272,7 @@
       "GotoUrl": "https://bluearchive.jp/news/newsJump/627",
       "GuidePopupId": 44,
       "GuidePopupType": 1,
-      "Message": "《蔚蓝档案》PC版发布！",
+      "Message": "《蔚蓝档案》PC版 发布！",
       "NotifyUrl": null,
       "PopupOKText": "查看详情",
       "PopupType": 1,
