@@ -2,18 +2,6 @@
   "Banners": [
     {
       "BannerDisplayType": 0,
-      "BannerId": 809,
-      "BannerType": 0,
-      "EndDate": "2026-01-25T10:59:59",
-      "FileName": [
-        "Event_Banner_840_Jp_81592377.png"
-      ],
-      "LinkedLobbyBannerId": 10840,
-      "StartDate": "2026-01-07T11:18:56",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/809/1059/"
-    },
-    {
-      "BannerDisplayType": 0,
       "BannerId": 813,
       "BannerType": 1,
       "EndDate": "2026-01-29T10:59:59",
@@ -199,33 +187,69 @@
     },
     {
       "GachaDisplayTag": -1,
-      "GachaProbabilityDisplayId": 533,
-      "LinkedLobbyBannerId": 913,
-      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/533/index.html"
+      "GachaProbabilityDisplayId": 539,
+      "LinkedLobbyBannerId": 920,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/539/index.html"
     },
     {
       "GachaDisplayTag": -1,
-      "GachaProbabilityDisplayId": 534,
-      "LinkedLobbyBannerId": 914,
-      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/534/index.html"
+      "GachaProbabilityDisplayId": 540,
+      "LinkedLobbyBannerId": 921,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/540/index.html"
     },
     {
       "GachaDisplayTag": -1,
-      "GachaProbabilityDisplayId": 535,
-      "LinkedLobbyBannerId": 915,
-      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/535/index.html"
+      "GachaProbabilityDisplayId": 541,
+      "LinkedLobbyBannerId": 922,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/541/index.html"
     },
     {
       "GachaDisplayTag": -1,
-      "GachaProbabilityDisplayId": 536,
-      "LinkedLobbyBannerId": 916,
-      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/536/index.html"
+      "GachaProbabilityDisplayId": 542,
+      "LinkedLobbyBannerId": 924,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/542/index.html"
     },
     {
       "GachaDisplayTag": -1,
-      "GachaProbabilityDisplayId": 537,
-      "LinkedLobbyBannerId": 917,
-      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/537/index.html"
+      "GachaProbabilityDisplayId": 543,
+      "LinkedLobbyBannerId": 925,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/543/index.html"
+    },
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 544,
+      "LinkedLobbyBannerId": 926,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/544/index.html"
+    },
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 545,
+      "LinkedLobbyBannerId": 927,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/545/index.html"
+    },
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 546,
+      "LinkedLobbyBannerId": 2110,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/546/index.html"
+    },
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 547,
+      "LinkedLobbyBannerId": 2210,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/547/index.html"
+    },
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 548,
+      "LinkedLobbyBannerId": 2310,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/548/index.html"
+    },
+    {
+      "GachaDisplayTag": -1,
+      "GachaProbabilityDisplayId": 549,
+      "LinkedLobbyBannerId": 2410,
+      "Url": "https://prod-notice.bluearchive.cafe/prod/GachaProbabilityDisplay/549/index.html"
     }
   ],
   "GuidePopup": [
@@ -243,6 +267,21 @@
       "StartDate": "2026-01-20T13:04:23",
       "SurveyId": 0,
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/44/75/"
+    },
+    {
+      "DisplayOrder": 1,
+      "EndDate": "2026-02-02T23:59:59",
+      "FileName": "5th_survey_banner.png",
+      "GotoUrl": null,
+      "GuidePopupId": 45,
+      "GuidePopupType": 0,
+      "Message": "参与问卷调查，领取奖励吧！",
+      "NotifyUrl": null,
+      "PopupOKText": "",
+      "PopupType": 1,
+      "StartDate": "2026-01-20T13:15:50",
+      "SurveyId": 338603093,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/45/78/"
     }
   ],
   "Issues": [],
