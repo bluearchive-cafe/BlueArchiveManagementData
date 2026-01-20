@@ -2,66 +2,6 @@
   "Banners": [
     {
       "BannerDisplayType": 0,
-      "BannerId": 804,
-      "BannerType": 1,
-      "EndDate": "2026-01-20T10:59:59",
-      "FileName": [
-        "Lobby_Banner_20260107_01_280635441.png"
-      ],
-      "LinkedLobbyBannerId": 914,
-      "StartDate": "2026-01-07T11:05:33",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/804/1053/"
-    },
-    {
-      "BannerDisplayType": 0,
-      "BannerId": 805,
-      "BannerType": 1,
-      "EndDate": "2026-01-20T10:59:59",
-      "FileName": [
-        "Lobby_Banner_20260107_02_111429487.png"
-      ],
-      "LinkedLobbyBannerId": 915,
-      "StartDate": "2026-01-07T11:07:52",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/805/1054/"
-    },
-    {
-      "BannerDisplayType": 0,
-      "BannerId": 806,
-      "BannerType": 1,
-      "EndDate": "2026-01-20T10:59:59",
-      "FileName": [
-        "Lobby_Banner_20230915_02_576212893.png"
-      ],
-      "LinkedLobbyBannerId": 916,
-      "StartDate": "2026-01-07T11:11:20",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/806/1055/"
-    },
-    {
-      "BannerDisplayType": 0,
-      "BannerId": 807,
-      "BannerType": 1,
-      "EndDate": "2026-01-20T10:59:59",
-      "FileName": [
-        "Lobby_Banner_20230915_03_506870263.png"
-      ],
-      "LinkedLobbyBannerId": 917,
-      "StartDate": "2026-01-07T11:13:32",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/807/1056/"
-    },
-    {
-      "BannerDisplayType": 0,
-      "BannerId": 808,
-      "BannerType": 1,
-      "EndDate": "2026-01-20T10:59:59",
-      "FileName": [
-        "Lobby_Banner_Archive_817709297.png"
-      ],
-      "LinkedLobbyBannerId": 3100,
-      "StartDate": "2026-01-07T11:18:15",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/808/1057/"
-    },
-    {
-      "BannerDisplayType": 0,
       "BannerId": 809,
       "BannerType": 0,
       "EndDate": "2026-01-25T10:59:59",
@@ -347,7 +287,7 @@
     "Text": "新しいメインストーリーが更新されました。適用するため、アプリを一回再起動してください。\n期間限定のガチャチケットの使用期限は\n8月31日(水)の10:59までとなっております、お忘れになりませんよう、ご注意ください。\n本日11:00からメンテナンスを行います。先生のご協力をお願いいたします。\n不具合修正のため、9月28日01:40に一回強制ログアウトが発生します。先生のご協力をお願いいたします。"
   },
   "RaidPeriodDisplay": null,
-  "ServerStatus": 1,
+  "ServerStatus": 7,
   "Survey": {
     "EndDate": "2023-01-23T23:59:59",
     "FileName": "Lobby_Banner.png",
