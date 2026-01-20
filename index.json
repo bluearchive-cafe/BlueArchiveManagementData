@@ -296,7 +296,16 @@
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/45/78/"
     }
   ],
-  "Issues": [],
+  "Issues": [
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-02-12T12:00:00",
+      "NoticeId": 985,
+      "StartDate": "2026-01-20T20:13:26",
+      "Title": "[1月20日(火曜日)]既知の不具合",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/985/3505/index379949802.html"
+    }
+  ],
   "LatestAndroidClientVersion": "1.65.398397",
   "LatestClientVersion": "1.65.398397",
   "LatestIosClientVersion": "1.65.398397",
