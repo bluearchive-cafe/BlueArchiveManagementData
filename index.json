@@ -240,6 +240,7 @@
   "LatestAndroidClientVersion": "1.64.391335",
   "LatestClientVersion": "1.64.391335",
   "LatestIosClientVersion": "1.64.391335",
+  "LatestPCClientVersion": null,
   "Maintenance": {
     "EndDate": "2026-01-20T19:00:00",
     "StartDate": "2026-01-20T11:00:00",
