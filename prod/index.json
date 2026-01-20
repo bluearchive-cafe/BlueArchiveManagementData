@@ -240,6 +240,7 @@
   "LatestAndroidClientVersion": "1.64.391335",
   "LatestClientVersion": "1.64.391335",
   "LatestIosClientVersion": "1.64.391335",
+  "LatestPCClientVersion": null,
   "Maintenance": {
     "EndDate": "2026-01-20T19:00:00",
     "StartDate": "2026-01-20T11:00:00",
@@ -284,7 +285,7 @@
     "EndDate": "2023-12-27T11:00:00",
     "PopupType": 1,
     "StartDate": "2023-12-19T00:00:00+09:00",
-    "Text": "新的主线剧情已更新。为应用更新，请重启一次应用。\n限定扭蛋券的使用期限至\n8月31日（周三）10:59为止，请注意不要忘记。\n今日11:00起将进行维护。感谢老师的配合。\n为修复故障，9月28日01:40将发生一次强制登出。感谢老师的配合。"
+    "Text": "新的主线剧情已更新。请重启一次应用以应用更新。\n限定扭蛋券的使用期限至\n8月31日（周三）10:59，请注意不要忘记。\n今日11:00起将进行维护。感谢老师的配合。\n为修复故障，将于9月28日01:40进行一次强制登出。感谢老师的配合。"
   },
   "RaidPeriodDisplay": null,
   "ServerStatus": 7,
@@ -295,7 +296,7 @@
     "PopupType": 1,
     "StartDate": "2023-01-11T14:32:37.234028+09:00",
     "SurveyId": 199990730,
-    "Text": "蔚蓝档案2周年 特别问卷调查",
+    "Text": "蔚蓝档案2周年特别问卷调查",
     "Url": "https://prod-notice.bluearchiveyostar.com/prod/SurveyGuidePopup/199990730/"
   }
 }
