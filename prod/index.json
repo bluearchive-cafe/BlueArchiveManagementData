@@ -11,6 +11,90 @@
       "LinkedLobbyBannerId": 10840,
       "StartDate": "2026-01-07T11:18:56",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/809/1059/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 813,
+      "BannerType": 1,
+      "EndDate": "2026-01-29T10:59:59",
+      "FileName": [
+        "Lobby_Banner_20260120_01_493416845.png"
+      ],
+      "LinkedLobbyBannerId": 921,
+      "StartDate": "2026-01-20T11:09:11",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/813/1064/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 814,
+      "BannerType": 1,
+      "EndDate": "2026-01-29T10:59:59",
+      "FileName": [
+        "Lobby_Banner_20260120_02_367869353.png"
+      ],
+      "LinkedLobbyBannerId": 922,
+      "StartDate": "2026-01-20T11:14:05",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/814/1065/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 819,
+      "BannerType": 0,
+      "EndDate": "2026-02-18T10:59:59",
+      "FileName": [
+        "Event_Banner_854_1_Jp_112516477.png"
+      ],
+      "LinkedLobbyBannerId": 854,
+      "StartDate": "2026-01-20T11:59:57",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/819/1071/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 820,
+      "BannerType": 1,
+      "EndDate": "2026-02-12T10:59:59",
+      "FileName": [
+        "Lobby_Banner_20250120_06_857487223.png"
+      ],
+      "LinkedLobbyBannerId": 2110,
+      "StartDate": "2026-01-20T12:56:42",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/820/1072/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 821,
+      "BannerType": 1,
+      "EndDate": "2026-02-12T10:59:59",
+      "FileName": [
+        "Lobby_Banner_20250120_07_825153057.png"
+      ],
+      "LinkedLobbyBannerId": 2210,
+      "StartDate": "2026-01-20T13:02:26",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/821/1073/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 822,
+      "BannerType": 1,
+      "EndDate": "2026-02-12T10:59:59",
+      "FileName": [
+        "Lobby_Banner_20250120_08_775560976.png"
+      ],
+      "LinkedLobbyBannerId": 2310,
+      "StartDate": "2026-01-20T13:03:14",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/822/1074/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 823,
+      "BannerType": 1,
+      "EndDate": "2026-02-12T10:59:59",
+      "FileName": [
+        "Lobby_Banner_20250120_09_136470538.png"
+      ],
+      "LinkedLobbyBannerId": 2410,
+      "StartDate": "2026-01-20T13:09:42",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/823/1075/"
     }
   ],
   "ContentLock": [],
@@ -146,101 +230,26 @@
   ],
   "GuidePopup": [
     {
-      "DisplayOrder": 0,
-      "EndDate": "2025-10-18T21:30:00",
-      "FileName": "Live2510.png",
-      "GotoUrl": "https://app.adjust.com/1t3ih5al?redirect=https%3A%2F%2Fyoutube.com%2Flive%2FDw7y4DNohkA",
-      "GuidePopupId": 37,
+      "DisplayOrder": 1,
+      "EndDate": "2026-02-03T13:04:23",
+      "FileName": "PC_release.png",
+      "GotoUrl": "https://bluearchive.jp/news/newsJump/627",
+      "GuidePopupId": 44,
       "GuidePopupType": 1,
-      "Message": "　　　　　蔚蓝档案直播！　　 　　　正在播出！\t",
+      "Message": "《蔚蓝档案》PC版发布！",
       "NotifyUrl": null,
-      "PopupOKText": "前往观看",
+      "PopupOKText": "查看详情",
       "PopupType": 1,
-      "StartDate": "2025-10-18T19:51:15",
+      "StartDate": "2026-01-20T13:04:23",
       "SurveyId": 0,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/37/68/"
-    },
-    {
-      "DisplayOrder": 0,
-      "EndDate": "2025-12-20T21:45:00",
-      "FileName": "Live202512.png",
-      "GotoUrl": "https://app.adjust.com/1vrvvaqx?redirect=https%3A%2F%2Fyoutube.com%2Flive%2FTo4kTwOHslU",
-      "GuidePopupId": 38,
-      "GuidePopupType": 1,
-      "Message": "　　　　　蔚蓝档案直播！　　 　　　正在播出！\t",
-      "NotifyUrl": null,
-      "PopupOKText": "前往观看",
-      "PopupType": 1,
-      "StartDate": "2025-12-20T18:50:00",
-      "SurveyId": 0,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/38/69/"
-    },
-    {
-      "DisplayOrder": 0,
-      "EndDate": "2026-01-17T14:45:00",
-      "FileName": "5th_stage_Day1.png",
-      "GotoUrl": "https://app.adjust.com/1wo7xc94?redirect=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmdafTit0lTA",
-      "GuidePopupId": 39,
-      "GuidePopupType": 1,
-      "Message": "　蔚蓝档案祭！特别舞台　一起去看看吧！",
-      "NotifyUrl": null,
-      "PopupOKText": "前往观看",
-      "PopupType": 1,
-      "StartDate": "2026-01-17T09:55:00",
-      "SurveyId": 0,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/39/70/"
-    },
-    {
-      "DisplayOrder": 0,
-      "EndDate": "2026-01-17T17:45:00",
-      "FileName": "5th_Live_Day1.png",
-      "GotoUrl": "https://app.adjust.com/1wo7xc94?redirect=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmdafTit0lTA",
-      "GuidePopupId": 40,
-      "GuidePopupType": 1,
-      "Message": "蔚蓝档案直播！第五周年特别篇！　一起去看看吧！",
-      "NotifyUrl": null,
-      "PopupOKText": "前往观看",
-      "PopupType": 1,
-      "StartDate": "2026-01-17T14:50:00",
-      "SurveyId": 0,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/40/71/"
-    },
-    {
-      "DisplayOrder": 0,
-      "EndDate": "2026-01-18T14:45:00",
-      "FileName": "5th_stage_Day2.png",
-      "GotoUrl": "https://app.adjust.com/1wefhoz0?redirect=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkgCwc2EHDgY",
-      "GuidePopupId": 41,
-      "GuidePopupType": 1,
-      "Message": "　蔚蓝档案祭！特别舞台　一起去看看吧！",
-      "NotifyUrl": null,
-      "PopupOKText": "前往观看",
-      "PopupType": 1,
-      "StartDate": "2026-01-18T09:55:00",
-      "SurveyId": 0,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/41/72/"
-    },
-    {
-      "DisplayOrder": 0,
-      "EndDate": "2026-01-18T17:45:00",
-      "FileName": "5th_Live_Day2.png",
-      "GotoUrl": "https://app.adjust.com/1wefhoz0?redirect=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkgCwc2EHDgY",
-      "GuidePopupId": 42,
-      "GuidePopupType": 1,
-      "Message": "蔚蓝档案直播！第五次动画SP！一起去看吧！",
-      "NotifyUrl": null,
-      "PopupOKText": "去看",
-      "PopupType": 1,
-      "StartDate": "2026-01-18T14:50:00",
-      "SurveyId": 0,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/42/73/"
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GuidePopup/44/75/"
     }
   ],
   "Issues": [],
-  "LatestAndroidClientVersion": "1.64.391335",
-  "LatestClientVersion": "1.64.391335",
-  "LatestIosClientVersion": "1.64.391335",
-  "LatestPCClientVersion": null,
+  "LatestAndroidClientVersion": "1.65.398397",
+  "LatestClientVersion": "1.65.398397",
+  "LatestIosClientVersion": "1.65.398397",
+  "LatestPCClientVersion": "1.65.398397",
   "Maintenance": {
     "EndDate": "2026-01-20T19:00:00",
     "StartDate": "2026-01-20T11:00:00",
@@ -285,10 +294,10 @@
     "EndDate": "2023-12-27T11:00:00",
     "PopupType": 1,
     "StartDate": "2023-12-19T00:00:00+09:00",
-    "Text": "新的主线剧情已更新。请重启一次应用以应用更新。\n限定扭蛋券的使用期限至\n8月31日（周三）10:59，请注意不要忘记。\n今日11:00起将进行维护。感谢老师的配合。\n为修复故障，将于9月28日01:40进行一次强制登出。感谢老师的配合。"
+    "Text": "新的主线剧情已更新。请重启一次应用以应用更新。\n限定扭蛋券的使用期限为\n8月31日（周三）10:59前，请注意不要忘记使用。\n今日11:00起将进行维护，感谢老师的配合。\n为修复问题，将于9月28日01:40进行一次强制登出，感谢老师的配合。"
   },
   "RaidPeriodDisplay": null,
-  "ServerStatus": 7,
+  "ServerStatus": 5,
   "Survey": {
     "EndDate": "2023-01-23T23:59:59",
     "FileName": "Lobby_Banner.png",
@@ -296,7 +305,7 @@
     "PopupType": 1,
     "StartDate": "2023-01-11T14:32:37.234028+09:00",
     "SurveyId": 199990730,
-    "Text": "蔚蓝档案2周年特别问卷调查",
+    "Text": "蔚蓝档案2周年 特别问卷调查",
     "Url": "https://prod-notice.bluearchiveyostar.com/prod/SurveyGuidePopup/199990730/"
   }
 }
