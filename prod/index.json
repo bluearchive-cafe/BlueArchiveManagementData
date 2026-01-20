@@ -2,66 +2,6 @@
   "Banners": [
     {
       "BannerDisplayType": 0,
-      "BannerId": 804,
-      "BannerType": 1,
-      "EndDate": "2026-01-20T10:59:59",
-      "FileName": [
-        "Lobby_Banner_20260107_01_280635441.png"
-      ],
-      "LinkedLobbyBannerId": 914,
-      "StartDate": "2026-01-07T11:05:33",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/804/1053/"
-    },
-    {
-      "BannerDisplayType": 0,
-      "BannerId": 805,
-      "BannerType": 1,
-      "EndDate": "2026-01-20T10:59:59",
-      "FileName": [
-        "Lobby_Banner_20260107_02_111429487.png"
-      ],
-      "LinkedLobbyBannerId": 915,
-      "StartDate": "2026-01-07T11:07:52",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/805/1054/"
-    },
-    {
-      "BannerDisplayType": 0,
-      "BannerId": 806,
-      "BannerType": 1,
-      "EndDate": "2026-01-20T10:59:59",
-      "FileName": [
-        "Lobby_Banner_20230915_02_576212893.png"
-      ],
-      "LinkedLobbyBannerId": 916,
-      "StartDate": "2026-01-07T11:11:20",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/806/1055/"
-    },
-    {
-      "BannerDisplayType": 0,
-      "BannerId": 807,
-      "BannerType": 1,
-      "EndDate": "2026-01-20T10:59:59",
-      "FileName": [
-        "Lobby_Banner_20230915_03_506870263.png"
-      ],
-      "LinkedLobbyBannerId": 917,
-      "StartDate": "2026-01-07T11:13:32",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/807/1056/"
-    },
-    {
-      "BannerDisplayType": 0,
-      "BannerId": 808,
-      "BannerType": 1,
-      "EndDate": "2026-01-20T10:59:59",
-      "FileName": [
-        "Lobby_Banner_Archive_817709297.png"
-      ],
-      "LinkedLobbyBannerId": 3100,
-      "StartDate": "2026-01-07T11:18:15",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/808/1057/"
-    },
-    {
-      "BannerDisplayType": 0,
       "BannerId": 809,
       "BannerType": 0,
       "EndDate": "2026-01-25T10:59:59",
@@ -97,15 +37,15 @@
   "GachaPeriodDisplay": [
     {
       "GachaPeriodDisplayId": 141,
-      "Text": "2022/02/23 维护后 ～ 2022/03/09 维护前"
+      "Text": "2022年2月23日维护后 ～ 2022年3月9日维护前"
     },
     {
       "GachaPeriodDisplayId": 142,
-      "Text": "2022/02/23 维护后 ～ 2022/03/09 维护前"
+      "Text": "2022年2月23日维护后 ～ 2022年3月9日维护前"
     },
     {
       "GachaPeriodDisplayId": 140,
-      "Text": "2022/02/23 维护后 ～ 2022/03/09 维护前"
+      "Text": "2022年2月23日维护后 ～ 2022年3月9日维护前"
     },
     {
       "GachaPeriodDisplayId": 6000,
@@ -344,10 +284,10 @@
     "EndDate": "2023-12-27T11:00:00",
     "PopupType": 1,
     "StartDate": "2023-12-19T00:00:00+09:00",
-    "Text": "新的主线剧情已更新。请重启一次应用以应用更新。\n限定扭蛋券的使用期限至\n8月31日（周三）10:59，请注意不要忘记。\n今日11:00起将进行维护。感谢老师的配合。\n为修复故障，9月28日01:40将发生一次强制登出。感谢老师的配合。"
+    "Text": "新的主线剧情已更新。为应用更新，请重启一次应用。\n限定扭蛋券的使用期限至\n8月31日（周三）10:59为止，请注意不要忘记。\n今日11:00起将进行维护。感谢老师的配合。\n为修复故障，9月28日01:40将发生一次强制登出。感谢老师的配合。"
   },
   "RaidPeriodDisplay": null,
-  "ServerStatus": 1,
+  "ServerStatus": 7,
   "Survey": {
     "EndDate": "2023-01-23T23:59:59",
     "FileName": "Lobby_Banner.png",
@@ -355,7 +295,7 @@
     "PopupType": 1,
     "StartDate": "2023-01-11T14:32:37.234028+09:00",
     "SurveyId": 199990730,
-    "Text": "蔚蓝档案2周年特别问卷调查",
+    "Text": "蔚蓝档案2周年 特别问卷调查",
     "Url": "https://prod-notice.bluearchiveyostar.com/prod/SurveyGuidePopup/199990730/"
   }
 }
