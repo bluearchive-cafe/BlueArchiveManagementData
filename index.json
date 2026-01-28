@@ -91,11 +91,19 @@
   "Events": [
     {
       "DisplayOrder": 0,
-      "EndDate": "2026-01-29T10:59:00",
-      "NoticeId": 981,
-      "StartDate": "2026-01-19T15:00:00",
+      "EndDate": "2026-02-04T10:59:00",
+      "NoticeId": 986,
+      "StartDate": "2026-01-28T14:00:00",
+      "Title": "ピックアップ募集",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/986/3508/index617681886.html"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-02-04T10:59:00",
+      "NoticeId": 987,
+      "StartDate": "2026-01-28T15:00:00",
       "Title": "イベント紹介",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/981/3493/index269090269.html"
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/987/3507/index955816800.html"
     }
   ],
   "GachaPeriodDisplay": [
@@ -291,8 +299,8 @@
   "LatestIosClientVersion": "1.65.398397",
   "LatestPCClientVersion": "1.65.398397",
   "Maintenance": {
-    "EndDate": "2026-01-20T19:00:00",
-    "StartDate": "2026-01-20T11:00:00",
+    "EndDate": "2026-01-29T17:00:00",
+    "StartDate": "2026-01-29T11:00:00",
     "Text": "定期メンテナンス中"
   },
   "MarketAppleId": null,
@@ -312,6 +320,14 @@
       "StartDate": "2026-01-19T15:30:00",
       "Title": "Yostar Gamesチャージセンターのお知らせ",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/984/3498/index379550767.html"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-02-04T10:59:00",
+      "NoticeId": 988,
+      "StartDate": "2026-01-28T15:00:00",
+      "Title": "メンテナンス",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/988/3509/index338698196.html"
     }
   ],
   "NotificationBeforeMaintenance": {
