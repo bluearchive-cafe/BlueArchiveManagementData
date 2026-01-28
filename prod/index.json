@@ -91,11 +91,19 @@
   "Events": [
     {
       "DisplayOrder": 0,
-      "EndDate": "2026-01-29T10:59:00",
-      "NoticeId": 981,
-      "StartDate": "2026-01-19T15:00:00",
+      "EndDate": "2026-02-04T10:59:00",
+      "NoticeId": 986,
+      "StartDate": "2026-01-28T14:00:00",
+      "Title": "精选招募",
+      "Url": "https://prod-notice.bluearchive.cafe/prod/986/3508/index617681886.html"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-02-04T10:59:00",
+      "NoticeId": 987,
+      "StartDate": "2026-01-28T15:00:00",
       "Title": "活动介绍",
-      "Url": "https://prod-notice.bluearchive.cafe/prod/981/3493/index269090269.html"
+      "Url": "https://prod-notice.bluearchive.cafe/prod/987/3507/index955816800.html"
     }
   ],
   "GachaPeriodDisplay": [
@@ -254,7 +262,7 @@
       "GuidePopupType": 1,
       "Message": "《蔚蓝档案》PC版 发布！",
       "NotifyUrl": null,
-      "PopupOKText": "查看详情",
+      "PopupOKText": "详情确认",
       "PopupType": 1,
       "StartDate": "2026-01-20T13:04:23",
       "SurveyId": 0,
@@ -291,8 +299,8 @@
   "LatestIosClientVersion": "1.65.398397",
   "LatestPCClientVersion": "1.65.398397",
   "Maintenance": {
-    "EndDate": "2026-01-20T19:00:00",
-    "StartDate": "2026-01-20T11:00:00",
+    "EndDate": "2026-01-29T17:00:00",
+    "StartDate": "2026-01-29T11:00:00",
     "Text": "定期维护中"
   },
   "MarketAppleId": null,
@@ -312,13 +320,21 @@
       "StartDate": "2026-01-19T15:30:00",
       "Title": "Yostar Games充值中心通知",
       "Url": "https://prod-notice.bluearchive.cafe/prod/984/3498/index379550767.html"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-02-04T10:59:00",
+      "NoticeId": 988,
+      "StartDate": "2026-01-28T15:00:00",
+      "Title": "维护",
+      "Url": "https://prod-notice.bluearchive.cafe/prod/988/3509/index338698196.html"
     }
   ],
   "NotificationBeforeMaintenance": {
     "EndDate": "2023-12-27T11:00:00",
     "PopupType": 1,
     "StartDate": "2023-12-19T00:00:00+09:00",
-    "Text": "新的主线剧情已更新。请重启一次应用以应用更新。\n限定扭蛋券的使用期限至\n8月31日(周三)10:59为止，请注意不要忘记使用。\n今日11:00起将进行维护，感谢老师的配合。\n为修复问题，将于9月28日01:40进行一次强制登出，感谢老师的配合。"
+    "Text": "新的主线故事已更新。请重启一次应用以应用更新。\n限定扭蛋券的使用期限至\n8月31日(周三)10:59为止，请注意不要忘记使用。\n今日11:00起将进行维护。感谢老师的配合。\n为修复问题，将于9月28日01:40进行一次强制登出。感谢老师的配合。"
   },
   "RaidPeriodDisplay": null,
   "ServerStatus": 1,
