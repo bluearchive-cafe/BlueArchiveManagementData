@@ -284,7 +284,7 @@
       "GotoUrl": "https://bluearchive.jp/news/newsJump/627",
       "GuidePopupId": 44,
       "GuidePopupType": 1,
-      "Message": "《蔚蓝档案》PC版发布！",
+      "Message": "《蔚蓝档案》PC版 发布！",
       "NotifyUrl": null,
       "PopupOKText": "查看详情",
       "PopupType": 1,
@@ -299,7 +299,7 @@
       "GotoUrl": null,
       "GuidePopupId": 45,
       "GuidePopupType": 0,
-      "Message": "参与问卷调查，领取奖励吧！",
+      "Message": "协助问卷调查，领取奖励吧！",
       "NotifyUrl": null,
       "PopupOKText": "",
       "PopupType": 1,
@@ -350,10 +350,10 @@
     "EndDate": "2023-12-27T11:00:00",
     "PopupType": 1,
     "StartDate": "2023-12-19T00:00:00+09:00",
-    "Text": "新的主线剧情已更新。请重启一次应用以应用更新。\n限定扭蛋券的使用期限为\n8月31日(周三)10:59前，请注意不要忘记使用。\n今日11:00起将进行维护。感谢老师的配合。\n为修复问题，将于9月28日01:40进行一次强制登出。感谢老师的配合。"
+    "Text": "新的主线故事已更新。请重启一次应用以应用更新。\n限定扭蛋券的使用期限为\n8月31日(周三)10:59前，请注意不要忘记使用。\n今日11:00起将进行维护，感谢老师的配合。\n为修复问题，将于9月28日01:40进行一次强制登出，感谢老师的配合。"
   },
   "RaidPeriodDisplay": null,
-  "ServerStatus": 5,
+  "ServerStatus": 1,
   "Survey": {
     "EndDate": "2023-01-23T23:59:59",
     "FileName": "Lobby_Banner.png",
