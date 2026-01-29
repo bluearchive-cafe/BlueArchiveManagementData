@@ -2,30 +2,6 @@
   "Banners": [
     {
       "BannerDisplayType": 0,
-      "BannerId": 813,
-      "BannerType": 1,
-      "EndDate": "2026-01-29T10:59:59",
-      "FileName": [
-        "Lobby_Banner_20260120_01_493416845.png"
-      ],
-      "LinkedLobbyBannerId": 921,
-      "StartDate": "2026-01-20T11:09:11",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/813/1064/"
-    },
-    {
-      "BannerDisplayType": 0,
-      "BannerId": 814,
-      "BannerType": 1,
-      "EndDate": "2026-01-29T10:59:59",
-      "FileName": [
-        "Lobby_Banner_20260120_02_367869353.png"
-      ],
-      "LinkedLobbyBannerId": 922,
-      "StartDate": "2026-01-20T11:14:05",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/814/1065/"
-    },
-    {
-      "BannerDisplayType": 0,
       "BannerId": 820,
       "BannerType": 1,
       "EndDate": "2026-02-12T10:59:59",
@@ -74,15 +50,15 @@
     },
     {
       "BannerDisplayType": 0,
-      "BannerId": 825,
+      "BannerId": 827,
       "BannerType": 42,
-      "EndDate": "2026-02-18T10:59:59",
+      "EndDate": "2026-03-04T10:59:59",
       "FileName": [
-        "Event_Banner_854_1_Jp_812166001.png"
+        "Event_Banner_854_2_Jp_30708441.png"
       ],
       "LinkedLobbyBannerId": 854,
-      "StartDate": "2026-01-20T16:49:16",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/825/1081/"
+      "StartDate": "2026-01-29T11:16:41",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/827/1084/"
     }
   ],
   "ContentLock": [],
@@ -262,7 +238,7 @@
       "GuidePopupType": 1,
       "Message": "《蔚蓝档案》PC版 发布！",
       "NotifyUrl": null,
-      "PopupOKText": "详情确认",
+      "PopupOKText": "查看详情",
       "PopupType": 1,
       "StartDate": "2026-01-20T13:04:23",
       "SurveyId": 0,
@@ -315,14 +291,6 @@
     },
     {
       "DisplayOrder": 0,
-      "EndDate": "2026-01-29T10:59:00",
-      "NoticeId": 984,
-      "StartDate": "2026-01-19T15:30:00",
-      "Title": "Yostar Games充值中心通知",
-      "Url": "https://prod-notice.bluearchive.cafe/prod/984/3498/index379550767.html"
-    },
-    {
-      "DisplayOrder": 0,
       "EndDate": "2026-02-04T10:59:00",
       "NoticeId": 988,
       "StartDate": "2026-01-28T15:00:00",
@@ -337,7 +305,7 @@
     "Text": "新的主线故事已更新。请重启一次应用以应用更新。\n限定扭蛋券的使用期限至\n8月31日(周三)10:59为止，请注意不要忘记使用。\n今日11:00起将进行维护。感谢老师的配合。\n为修复问题，将于9月28日01:40进行一次强制登出。感谢老师的配合。"
   },
   "RaidPeriodDisplay": null,
-  "ServerStatus": 1,
+  "ServerStatus": 5,
   "Survey": {
     "EndDate": "2023-01-23T23:59:59",
     "FileName": "Lobby_Banner.png",
