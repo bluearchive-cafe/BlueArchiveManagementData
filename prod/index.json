@@ -127,7 +127,7 @@
       "NoticeId": 987,
       "StartDate": "2026-01-28T15:00:00",
       "Title": "活动介绍",
-      "Url": "https://prod-notice.bluearchive.cafe/prod/987/3507/index955816800.html"
+      "Url": "https://prod-notice.bluearchive.cafe/prod/987/3511/index297722251.html"
     }
   ],
   "GachaPeriodDisplay": [
@@ -284,7 +284,7 @@
       "GotoUrl": "https://bluearchive.jp/news/newsJump/627",
       "GuidePopupId": 44,
       "GuidePopupType": 1,
-      "Message": "《蔚蓝档案》PC版 发布！",
+      "Message": "《蔚蓝档案》PC版发布！",
       "NotifyUrl": null,
       "PopupOKText": "查看详情",
       "PopupType": 1,
@@ -343,14 +343,14 @@
       "NoticeId": 988,
       "StartDate": "2026-01-28T15:00:00",
       "Title": "维护",
-      "Url": "https://prod-notice.bluearchive.cafe/prod/988/3509/index338698196.html"
+      "Url": "https://prod-notice.bluearchive.cafe/prod/988/3510/index140492904.html"
     }
   ],
   "NotificationBeforeMaintenance": {
     "EndDate": "2023-12-27T11:00:00",
     "PopupType": 1,
     "StartDate": "2023-12-19T00:00:00+09:00",
-    "Text": "新的主线故事已更新。请重启一次应用以应用更新。\n限定扭蛋券的使用期限为\n8月31日(周三)10:59前，请注意不要忘记使用。\n今日11:00起将进行维护，感谢老师的配合。\n为修复问题，将于9月28日01:40进行一次强制登出，感谢老师的配合。"
+    "Text": "新的主线故事已更新。请重启一次应用以应用更新。\n限定扭蛋券的使用期限至\n8月31日(周三)10:59为止，请注意不要忘记使用。\n今日11:00起将进行维护。感谢老师的配合。\n为修复问题，将于9月28日01:40进行一次强制登出。感谢老师的配合。"
   },
   "RaidPeriodDisplay": null,
   "ServerStatus": 1,
