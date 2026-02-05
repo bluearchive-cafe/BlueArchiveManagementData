@@ -112,7 +112,16 @@
   "ContentLock": [],
   "DownloadLimitTime": 0.0,
   "EnableSQLite": true,
-  "Events": [],
+  "Events": [
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-02-12T11:00:00",
+      "NoticeId": 989,
+      "StartDate": "2026-02-05T20:13:26",
+      "Title": "ピックアップ募集",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/989/3513/index881486066.html"
+    }
+  ],
   "GachaPeriodDisplay": [
     {
       "GachaPeriodDisplayId": 141,
