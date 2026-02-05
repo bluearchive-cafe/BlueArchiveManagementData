@@ -112,7 +112,16 @@
   "ContentLock": [],
   "DownloadLimitTime": 0.0,
   "EnableSQLite": true,
-  "Events": [],
+  "Events": [
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-02-12T11:00:00",
+      "NoticeId": 989,
+      "StartDate": "2026-02-05T20:13:26",
+      "Title": "精选招募",
+      "Url": "https://prod-notice.bluearchive.cafe/prod/989/3513/index881486066.html"
+    }
+  ],
   "GachaPeriodDisplay": [
     {
       "GachaPeriodDisplayId": 141,
@@ -346,7 +355,7 @@
     "EndDate": "2023-12-27T11:00:00",
     "PopupType": 1,
     "StartDate": "2023-12-19T00:00:00+09:00",
-    "Text": "新的主线故事已更新。请重启一次应用以应用更新。\n限定扭蛋券的使用期限至\n8月31日(星期三)10:59为止，请注意不要忘记使用。\n今日11:00起将进行维护。感谢老师的配合。\n为修复问题，将于9月28日01:40进行一次强制登出。感谢老师的配合。"
+    "Text": "新的主线剧情已更新。请重启一次应用以应用更新。\n限定扭蛋券的使用期限为\n至8月31日(星期三)10:59，请注意不要忘记使用。\n今日11:00起将进行维护。感谢老师的配合。\n为修复问题，将于9月28日01:40进行一次强制登出。感谢老师的配合。"
   },
   "RaidPeriodDisplay": null,
   "ServerStatus": 1,
