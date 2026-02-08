@@ -85,6 +85,7 @@ jobs:
 
       - name: Sync to prod-notice repo
         run: |
+          mkdir -p prod-notice/public/prod
           rsync -av --exclude 'index.json' prod/ prod-notice/public/prod/
           cd prod-notice
           git config user.name "github-actions[bot]"
