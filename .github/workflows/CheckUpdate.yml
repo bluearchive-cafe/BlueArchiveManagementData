@@ -82,7 +82,7 @@ jobs:
             git commit -m "Update: Translated results $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
             git push origin HEAD
           fi
-
+          mkdir -p prod-notice/public/prod
           rsync -av --exclude 'index.json' prod/ prod-notice/public/prod/
           cd prod-notice
           git add public/prod/
