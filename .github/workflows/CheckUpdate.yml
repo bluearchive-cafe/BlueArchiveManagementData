@@ -85,7 +85,6 @@ jobs:
           fi
 
       - name: Sync to prod-notice repo
-        if: env.update_detected == 'true'
         run: |
           mkdir -p prod-notice/public/prod
           cp -r prod/* prod-notice/public/prod/
