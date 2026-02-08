@@ -67,7 +67,7 @@ jobs:
           PYTHONUNBUFFERED: "1"
         run: |
           git clone --depth 1 git@github.com:beichen23333/BlueArchive-Translation.git tool
-          git clone --depth 1 git@github.com:bluearchive-cafe/prod-notice.git
+          git clone --depth 1 git@github.com:bluearchive-cafe/prod-notice.git prod-notice
           python -m pip install requests beautifulsoup4 openai tqdm boto3 xxhash
           cp -r tool/* . && rm -rf tool
           python -m translation.translation_announcement
@@ -85,6 +85,7 @@ jobs:
           fi
 
       - name: Sync to prod-notice repo
+        if: env.update_detected == 'true'
         run: |
           mkdir -p prod-notice/public/prod
           cp -r prod/* prod-notice/public/prod/
