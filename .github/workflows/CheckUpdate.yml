@@ -74,6 +74,7 @@ jobs:
           python -m update_notice_kv
 
       - name: Save Changes (main repo)
+        if: env.update_detected == 'true'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
@@ -84,9 +85,11 @@ jobs:
           fi
 
       - name: Sync to prod-notice repo
+        if: env.update_detected == 'true'
         run: |
           mkdir -p prod-notice/public/prod
-          rsync -av --exclude 'index.json' prod/ prod-notice/public/prod/
+          cp -r prod/* prod-notice/public/prod/
+          rm -f prod-notice/public/prod/index.json
           cd prod-notice
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
