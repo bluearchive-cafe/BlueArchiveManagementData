@@ -67,12 +67,11 @@ jobs:
           PYTHONUNBUFFERED: "1"
         run: |
           git clone --depth 1 git@github.com:beichen23333/BlueArchive-Translation.git tool
-          git clone --depth 1 git@github.com:bluearchive-cafe/bluearchive-cafe-prod-notice.git
+          git clone --depth 1 git@github.com:bluearchive-cafe/prod-notice.git
           python -m pip install requests beautifulsoup4 openai tqdm boto3 xxhash
           cp -r tool/* . && rm -rf tool
           python -m translation.translation_announcement
           python -m update_notice_kv
-          python -m bilibili.bilibili_column
 
       - name: Save Changes
         if: env.update_detected == 'true'
@@ -85,9 +84,9 @@ jobs:
             git push origin HEAD
           fi
 
-          cp -r prod/* bluearchive-cafe-prod-notice/public/prod/
-          cd bluearchive-cafe-prod-notice
-          git add public/prod/
+          cp -r prod/* prod-notice/prod/
+          cd prod-notice
+          git add prod/
           if ! git diff --cached --quiet; then
             git commit -m "Update: Translated results $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
             git push origin HEAD
