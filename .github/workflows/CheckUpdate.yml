@@ -51,7 +51,7 @@ jobs:
           
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add index.json
+          git add index.json prod/index.json
           git commit -m "Sync: New index detected" || true
           git push origin HEAD
 
@@ -84,7 +84,7 @@ jobs:
             git push origin HEAD
           fi
 
-          cp -r prod/* prod-notice/prod/
+          rsync -av --exclude 'index.json' prod/ prod-notice/prod/
           cd prod-notice
           git add prod/
           if ! git diff --cached --quiet; then
