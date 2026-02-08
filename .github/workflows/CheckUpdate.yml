@@ -74,7 +74,6 @@ jobs:
           python -m update_notice_kv
 
       - name: Save Changes
-        if: env.update_detected == 'true'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
@@ -84,9 +83,9 @@ jobs:
             git push origin HEAD
           fi
 
-          rsync -av --exclude 'index.json' prod/ prod-notice/prod/
+          rsync -av --exclude 'index.json' prod/ prod-notice/public/prod/
           cd prod-notice
-          git add prod/
+          git add public/prod/
           if ! git diff --cached --quiet; then
             git commit -m "Update: Translated results $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
             git push origin HEAD
