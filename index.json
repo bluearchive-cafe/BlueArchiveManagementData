@@ -120,6 +120,22 @@
       "StartDate": "2026-02-05T20:13:26",
       "Title": "ピックアップ募集",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/989/3513/index881486066.html"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-02-25T11:00:00",
+      "NoticeId": 990,
+      "StartDate": "2026-02-11T14:00:00",
+      "Title": "ピックアップ募集",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/990/3517/index370516084.html"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-02-18T11:00:00",
+      "NoticeId": 991,
+      "StartDate": "2026-02-11T14:00:00",
+      "Title": "イベント紹介",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/991/3515/index300037005.html"
     }
   ],
   "GachaPeriodDisplay": [
@@ -350,7 +366,16 @@
     "Text": "定期メンテナンス中"
   },
   "MarketAppleId": null,
-  "Notices": [],
+  "Notices": [
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-02-18T11:00:00",
+      "NoticeId": 992,
+      "StartDate": "2026-02-11T15:00:00",
+      "Title": "メンテナンス",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/992/3519/index150647159.html"
+    }
+  ],
   "NotificationBeforeMaintenance": {
     "EndDate": "2023-12-27T11:00:00",
     "PopupType": 1,
