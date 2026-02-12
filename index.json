@@ -1,5 +1,42 @@
 {
-  "Banners": [],
+  "Banners": [
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 837,
+      "BannerType": 1,
+      "EndDate": "2026-02-25T10:59:59",
+      "FileName": [
+        "Lobby_Banner_20260212_01_826560665.png"
+      ],
+      "LinkedLobbyBannerId": 941,
+      "StartDate": "2026-02-12T11:24:01",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/837/1094/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 838,
+      "BannerType": 1,
+      "EndDate": "2026-02-25T10:59:59",
+      "FileName": [
+        "Lobby_Banner_20260212_02_471657051.png"
+      ],
+      "LinkedLobbyBannerId": 942,
+      "StartDate": "2026-02-12T11:25:21",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/838/1095/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 839,
+      "BannerType": 42,
+      "EndDate": "2026-03-04T10:59:59",
+      "FileName": [
+        "Event_Banner_854_3_Jp_548353566.png"
+      ],
+      "LinkedLobbyBannerId": 854,
+      "StartDate": "2026-02-12T11:30:19",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/839/1096/"
+    }
+  ],
   "ContentLock": [],
   "DownloadLimitTime": 0.0,
   "EnableSQLite": true,
@@ -96,33 +133,21 @@
     },
     {
       "GachaDisplayTag": -1,
-      "GachaProbabilityDisplayId": 532,
-      "LinkedLobbyBannerId": 7000,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/532/index.html"
+      "GachaProbabilityDisplayId": 555,
+      "LinkedLobbyBannerId": 940,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/555/index.html"
     },
     {
       "GachaDisplayTag": -1,
-      "GachaProbabilityDisplayId": 546,
-      "LinkedLobbyBannerId": 2110,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/546/index.html"
+      "GachaProbabilityDisplayId": 556,
+      "LinkedLobbyBannerId": 941,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/556/index.html"
     },
     {
       "GachaDisplayTag": -1,
-      "GachaProbabilityDisplayId": 547,
-      "LinkedLobbyBannerId": 2210,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/547/index.html"
-    },
-    {
-      "GachaDisplayTag": -1,
-      "GachaProbabilityDisplayId": 548,
-      "LinkedLobbyBannerId": 2310,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/548/index.html"
-    },
-    {
-      "GachaDisplayTag": -1,
-      "GachaProbabilityDisplayId": 549,
-      "LinkedLobbyBannerId": 2410,
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/549/index.html"
+      "GachaProbabilityDisplayId": 557,
+      "LinkedLobbyBannerId": 942,
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/GachaProbabilityDisplay/557/index.html"
     }
   ],
   "GuidePopup": [
@@ -158,10 +183,10 @@
     }
   ],
   "Issues": [],
-  "LatestAndroidClientVersion": "1.65.398397",
-  "LatestClientVersion": "1.65.398397",
-  "LatestIosClientVersion": "1.65.398397",
-  "LatestPCClientVersion": "1.65.398397",
+  "LatestAndroidClientVersion": "1.66.405117",
+  "LatestClientVersion": "1.66.405117",
+  "LatestIosClientVersion": "1.66.405117",
+  "LatestPCClientVersion": "1.66.405117",
   "Maintenance": {
     "EndDate": "2026-02-12T19:00:00",
     "StartDate": "2026-02-12T11:00:00",
@@ -185,7 +210,7 @@
     "Text": "新しいメインストーリーが更新されました。適用するため、アプリを一回再起動してください。\n期間限定のガチャチケットの使用期限は\n8月31日(水)の10:59までとなっております、お忘れになりませんよう、ご注意ください。\n本日11:00からメンテナンスを行います。先生のご協力をお願いいたします。\n不具合修正のため、9月28日01:40に一回強制ログアウトが発生します。先生のご協力をお願いいたします。"
   },
   "RaidPeriodDisplay": null,
-  "ServerStatus": 7,
+  "ServerStatus": 5,
   "Survey": {
     "EndDate": "2023-01-23T23:59:59",
     "FileName": "Lobby_Banner.png",
