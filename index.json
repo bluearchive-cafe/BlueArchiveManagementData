@@ -200,7 +200,7 @@
       "NoticeId": 992,
       "StartDate": "2026-02-11T15:00:00",
       "Title": "メンテナンス",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/992/3519/index150647159.html"
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/992/3520/index591669654.html"
     }
   ],
   "NotificationBeforeMaintenance": {
@@ -210,7 +210,7 @@
     "Text": "新しいメインストーリーが更新されました。適用するため、アプリを一回再起動してください。\n期間限定のガチャチケットの使用期限は\n8月31日(水)の10:59までとなっております、お忘れになりませんよう、ご注意ください。\n本日11:00からメンテナンスを行います。先生のご協力をお願いいたします。\n不具合修正のため、9月28日01:40に一回強制ログアウトが発生します。先生のご協力をお願いいたします。"
   },
   "RaidPeriodDisplay": null,
-  "ServerStatus": 5,
+  "ServerStatus": 1,
   "Survey": {
     "EndDate": "2023-01-23T23:59:59",
     "FileName": "Lobby_Banner.png",
