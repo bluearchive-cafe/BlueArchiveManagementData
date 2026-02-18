@@ -35,6 +35,42 @@
       "LinkedLobbyBannerId": 854,
       "StartDate": "2026-02-12T11:30:19",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/839/1096/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 840,
+      "BannerType": 0,
+      "EndDate": "2026-03-11T10:59:59",
+      "FileName": [
+        "Event_Banner_855_Jp_827164373.png"
+      ],
+      "LinkedLobbyBannerId": 855,
+      "StartDate": "2026-02-18T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/840/1097/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 841,
+      "BannerType": 4,
+      "EndDate": "2026-02-25T03:59:59",
+      "FileName": [
+        "Raid_Banner_1_jp(屋外)_502022994.png"
+      ],
+      "LinkedLobbyBannerId": 0,
+      "StartDate": "2026-02-18T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/841/1099/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 843,
+      "BannerType": 37,
+      "EndDate": "2026-03-11T10:59:59",
+      "FileName": [
+        "Event_Banner_Seasonal_80000_Jp_980586154.png"
+      ],
+      "LinkedLobbyBannerId": 80001,
+      "StartDate": "2026-02-18T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/843/1101/"
     }
   ],
   "ContentLock": [],
@@ -48,14 +84,6 @@
       "StartDate": "2026-02-11T14:00:00",
       "Title": "ピックアップ募集",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/990/3517/index370516084.html"
-    },
-    {
-      "DisplayOrder": 0,
-      "EndDate": "2026-02-18T11:00:00",
-      "NoticeId": 991,
-      "StartDate": "2026-02-11T14:00:00",
-      "Title": "イベント紹介",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/991/3515/index300037005.html"
     },
     {
       "DisplayOrder": 0,
@@ -201,16 +229,7 @@
     "Text": "定期メンテナンス中"
   },
   "MarketAppleId": null,
-  "Notices": [
-    {
-      "DisplayOrder": 0,
-      "EndDate": "2026-02-18T11:00:00",
-      "NoticeId": 992,
-      "StartDate": "2026-02-11T15:00:00",
-      "Title": "メンテナンス",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/992/3520/index591669654.html"
-    }
-  ],
+  "Notices": [],
   "NotificationBeforeMaintenance": {
     "EndDate": "2023-12-27T11:00:00",
     "PopupType": 1,
