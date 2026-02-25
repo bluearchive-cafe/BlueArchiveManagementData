@@ -2,30 +2,6 @@
   "Banners": [
     {
       "BannerDisplayType": 0,
-      "BannerId": 837,
-      "BannerType": 1,
-      "EndDate": "2026-02-25T10:59:59",
-      "FileName": [
-        "Lobby_Banner_20260212_01_826560665.png"
-      ],
-      "LinkedLobbyBannerId": 941,
-      "StartDate": "2026-02-12T11:24:01",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/837/1094/"
-    },
-    {
-      "BannerDisplayType": 0,
-      "BannerId": 838,
-      "BannerType": 1,
-      "EndDate": "2026-02-25T10:59:59",
-      "FileName": [
-        "Lobby_Banner_20260212_02_471657051.png"
-      ],
-      "LinkedLobbyBannerId": 942,
-      "StartDate": "2026-02-12T11:25:21",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/838/1095/"
-    },
-    {
-      "BannerDisplayType": 0,
       "BannerId": 839,
       "BannerType": 42,
       "EndDate": "2026-03-04T10:59:59",
@@ -59,20 +35,72 @@
       "LinkedLobbyBannerId": 80001,
       "StartDate": "2026-02-18T11:00:00",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/843/1101/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 849,
+      "BannerType": 1,
+      "EndDate": "2026-03-04T10:59:59",
+      "FileName": [
+        "Lobby_Banner_20250115_03_848364911.png"
+      ],
+      "LinkedLobbyBannerId": 944,
+      "StartDate": "2026-02-25T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/849/1110/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 850,
+      "BannerType": 1,
+      "EndDate": "2026-03-04T10:59:59",
+      "FileName": [
+        "Lobby_Banner_20250115_04_452004916.png"
+      ],
+      "LinkedLobbyBannerId": 945,
+      "StartDate": "2026-02-25T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/850/1111/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 851,
+      "BannerType": 1,
+      "EndDate": "2026-03-04T10:59:59",
+      "FileName": [
+        "Lobby_Banner_20240522_03_263523261.png"
+      ],
+      "LinkedLobbyBannerId": 946,
+      "StartDate": "2026-02-25T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/851/1112/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 852,
+      "BannerType": 1,
+      "EndDate": "2026-03-04T10:59:59",
+      "FileName": [
+        "Lobby_Banner_20240110_01_621067254.png"
+      ],
+      "LinkedLobbyBannerId": 947,
+      "StartDate": "2026-02-25T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/852/1113/"
+    },
+    {
+      "BannerDisplayType": 0,
+      "BannerId": 853,
+      "BannerType": 26,
+      "EndDate": "2026-03-04T03:59:59",
+      "FileName": [
+        "TimeAttack_Banner_Jp_861712077.png"
+      ],
+      "LinkedLobbyBannerId": 0,
+      "StartDate": "2026-02-25T11:00:00",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/Banner/853/1114/"
     }
   ],
   "ContentLock": [],
   "DownloadLimitTime": 0.0,
   "EnableSQLite": true,
   "Events": [
-    {
-      "DisplayOrder": 0,
-      "EndDate": "2026-02-25T11:00:00",
-      "NoticeId": 990,
-      "StartDate": "2026-02-11T14:00:00",
-      "Title": "ピックアップ募集",
-      "Url": "https://prod-notice.bluearchiveyostar.com/prod/990/3517/index370516084.html"
-    },
     {
       "DisplayOrder": 0,
       "EndDate": "2026-03-04T11:00:00",
