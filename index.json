@@ -116,6 +116,22 @@
       "StartDate": "2026-02-11T15:00:00",
       "Title": "ピックアップ募集",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/994/3523/index462094332.html"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-03-18T11:00:00",
+      "NoticeId": 996,
+      "StartDate": "2026-03-03T15:00:00",
+      "Title": "イベント紹介",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/996/3527/index691058621.html"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-03-18T11:00:00",
+      "NoticeId": 995,
+      "StartDate": "2026-03-03T14:00:00",
+      "Title": "ピックアップ募集",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/995/3524/index39297166.html"
     }
   ],
   "GachaPeriodDisplay": [
@@ -297,6 +313,14 @@
       "StartDate": "2026-03-01T15:00:00",
       "Title": "誕生日カレンダー",
       "Url": "https://prod-notice.bluearchiveyostar.com/prod/999/3529/index296319446.html"
+    },
+    {
+      "DisplayOrder": 0,
+      "EndDate": "2026-03-11T11:00:00",
+      "NoticeId": 997,
+      "StartDate": "2026-03-03T15:00:00",
+      "Title": "メンテナンス",
+      "Url": "https://prod-notice.bluearchiveyostar.com/prod/997/3526/index739417633.html"
     }
   ],
   "NotificationBeforeMaintenance": {
